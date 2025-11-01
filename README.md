@@ -1,21 +1,23 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/contributing/release_checklist.html#the-readme-file) for README guidelines) ...
-
+This treebank contains data of Southern Autogramm, for the (Tibiri) Gobir dialect of Niger Republic (Western Hausa).
 
 # Introduction
 
-...
+The Gobir dialect is a transition between the Standard (Kano) Hausa and the Sokoto dialect (see SUD_Hausa-NorthernAutogramm).
+
+The treebank contains 775 sentences, 14,663 tokens and 12,007 words.
+
+It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_Hausa-WesternAutogramm](https://universal.grew.fr/?corpus=SUD_Hausa-WesternAutogramm) and converted automatically in UD.
+
 
 
 # Acknowledgments
-
-...
+The texts annotated in this treebank were dictated to Claude Gouffé in 1968 in Tibiri (Gobir, Niger Republic).
+The translation and morphosyntactic annotations are by Bernard Caron.
 
 ## References
-
-* (citation)
-
+"BALDI, Sergio, Pawlak, Nina & Jibril Shuaibu Adamu. 2024. Hausa texts from Maradi (Niger) collected by Claude Gouffé in 1968 (with annotations in French). Studies in African Languages and Cultures Special Issue."
 
 # Changelog
 
@@ -29,7 +31,7 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: TO-BE-SPECIFIED
+Genre: fiction nonfiction spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
