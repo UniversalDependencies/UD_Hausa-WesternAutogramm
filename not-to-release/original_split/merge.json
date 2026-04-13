@@ -1,0 +1,14 @@
+{
+  "ha_westernautogramm-ud-test": [
+    {
+      "document_ids": [
+        "HAUT_CG_01_Zugal",
+        "HAUT_CG_02_Tsarince",
+        "HAUT_CG_03_Tauri",
+        "HAUT_CG_04_GreenBeans",
+        "HAUT_CG_05_Fulani",
+        "HAUT_CG_06_HorseRiders"
+      ]
+    }
+  ]
+}
