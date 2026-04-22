@@ -133,7 +133,7 @@
 21	sai	sai	ADP	_	_	24	case	_	Gloss=then
 22	tàːre	tàːre	ADV	_	_	24	advmod	_	Gloss=together
 23	dà	dà	ADP	_	_	24	case	_	Gloss=with
-24	cêːwaːssù	cêː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	17	obl	_	CaseAf=Gen|Gloss=say.Nmlz.Fem.Cons-3PlurGen|MSeg=cêːwaːs-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
+24	cêːwaːssù	cêː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	17	obl:mod	_	CaseAf=Gen|Gloss=say.Nmlz.Fem.Cons-3PlurGen|MSeg=cêːwaːs-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 25	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 26	dom	don	SCONJ	_	_	29	mark	_	Gloss=because
 27	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	29	nsubj	_	Gloss=medicine/spell.Masc
@@ -198,7 +198,7 @@
 10	kac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	11	aux	_	Gloss=2Masc.Perf.Rel|Relative=Yes
 11	ci	ci	VERB	_	_	9	acl:relcl	_	Gloss=eat
 12	sabòːdà	sabòːdà	SCONJ	_	_	13	case	_	Gloss=because
-13	shiː	shiː	PRON	_	Gender=Masc|Person=3	11	obl	_	Gloss=3Masc|SpaceAfter=No
+13	shiː	shiː	PRON	_	Gender=Masc|Person=3	11	obl:mod	_	Gloss=3Masc|SpaceAfter=No
 14	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_009-009
@@ -220,7 +220,7 @@
 10	yi	yi	VERB	_	_	8	acl:relcl	_	Gloss=do
 11	wankaː	wankaː	VERB	_	ExtPos=NOUN|Gender=Masc	10	xcomp	_	Gloss=bathing.Nmlz.Masc
 12	sabòːdà	sabòːdà	ADP	_	_	13	case	_	Gloss=because
-13	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	obl	_	Gloss=3Masc|SpaceAfter=No
+13	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	obl:mod	_	Gloss=3Masc|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_010-010
@@ -379,7 +379,7 @@
 10	laƙèː	laƙèː	VERB	_	_	8	acl:relcl	_	Gloss=pile_up
 11	bisà	bisà	ADP	_	_	10	obl:arg	_	Gloss=on_top_of|SpaceAfter=No
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-13	koːwanè	koːwanè	PRON	_	_	19	obl	_	Gloss=whichever
+13	koːwanè	koːwanè	PRON	_	_	19	obl:mod	_	Gloss=whichever
 14	ankà	yaː	AUX	_	Aspect=Perf|Person=4	15	aux	_	Gloss=4.Perf.Rel|Relative=Yes
 15	saːmùː	saːmùː	VERB	_	_	13	acl:relcl	_	Gloss=get|SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -392,7 +392,7 @@
 23	c'ìntoː	c'ìntaː	VERB	_	_	0	root	_	Gloss=pick_up_by_chance.Dir
 24	shi	shi	PRON	_	Gender=Masc|Person=3	23	obj	_	Gloss=3Masc
 25	dà	dà	ADP	_	_	26	case	_	Gloss=with
-26	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	obl	_	Gloss=chance/quantity.Fem|SpaceAfter=No
+26	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	obl:mod	_	Gloss=chance/quantity.Fem|SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 28	à	yà	AUX	_	Mood=Sub|Person=4	29	aux	_	Gloss=4.Sub
 29	ƙumshèː	ƙumshèː	VERB	_	_	23	parataxis	_	Gloss=wrap_up
@@ -744,7 +744,7 @@
 17	yi	yi	VERB	_	_	8	acl:relcl	_	Gloss=do
 18	zùndà-zundàː	zùndà-zundàː	ADV	_	_	17	xcomp	_	Gloss=elongated|Ideo=Yes
 19	kàmaz	kàmat	ADP	_	_	20	case	_	Gloss=like
-20	zùngùr̃uː	zùngùr̃uː	NOUN	_	Gender=Masc	17	obl	_	Gloss=long_gourd.Masc|SpaceAfter=No
+20	zùngùr̃uː	zùngùr̃uː	NOUN	_	Gender=Masc	17	obl:mod	_	Gloss=long_gourd.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_028-029_split2_split2
@@ -776,7 +776,7 @@
 7	à	yà	AUX	_	Mood=Sub|Person=4	8	aux	_	Gloss=4.Sub
 8	gamèː	gamèː	VERB	_	_	0	root	_	Gloss=join.Ach
 9	su	su	PRON	_	Person=3	8	obj	_	Gloss=3.Pl
-10	wuriː	wuriː	NOUN	_	Gender=Masc	8	obl	_	Gloss=place.Masc
+10	wuriː	wuriː	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=place.Masc
 11	gùdaː	gùdaː	NUM	_	_	10	nummod	_	Gloss=one|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 13	dà	dà	ADP	_	_	15	case	_	Gloss=with
@@ -849,7 +849,7 @@
 12	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	aux	_	Copula=Yes|Gloss=3Masc.Prog
 13	wuriːnai	wuriː	NOUN	_	Gender=Masc	8	parataxis	_	CaseAf=Gen|GenderAf=Masc|Gloss=place.Masc.Cons-3MascGen|MSeg=wuriːn-ai|PersonAf=3|Poss=Yes
 14	koːdàwanè	koːdàwanè	DET	_	_	15	det	_	Gloss=each
-15	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	13	obl	_	Gloss=time.Masc|SpaceAfter=No
+15	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	13	obl:mod	_	Gloss=time.Masc|SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_033-033
@@ -859,7 +859,7 @@
 # text = loːkàcin dà mùtun zâːshi har̃akàː dà màcce, sai shì ɗèːbi gàːrîn nan ɗan kàɗannà, shì sâː gà ruwaː, shì kwaːɓàː.
 # text_en = When a man is going to meet a woman, he will take a little of that powder and put it into water and stir it.
 # text_ortho = lookàcin dà mùtun zaà ši harakàa dà màcce, sai šì ɗèebi gàaᵲiǹ nan ɗan kàɗannà, šì saà gà ᵲuwaa, šì kwaaɓàa.
-1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	11	obl	_	Gloss=time.Masc
+1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	11	obl:mod	_	Gloss=time.Masc
 2	dà	dà	SCONJ	_	_	5	mark	_	Gloss=that
 3	mùtun	mùtun	NOUN	_	Gender=Masc	5	dislocated	_	Gloss=person.Masc
 4	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	aux	_	Gloss=Fut.3Masc
@@ -1054,7 +1054,7 @@
 8	sàːmeː	saːmùː	VERB	_	_	0	root	_	Gloss=get
 9	shì	shi	PRON	_	Gender=Masc|Person=3	8	obj	_	Gloss=3Masc
 10	dà	dà	ADP	_	_	11	case	_	Gloss=with
-11	daːmaː	daːmaː	NOUN	_	Gender=Fem	8	obl	_	Gloss=chance/quantity.Fem|SpaceAfter=No
+11	daːmaː	daːmaː	NOUN	_	Gender=Fem	8	obl:mod	_	Gloss=chance/quantity.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	à	yà	AUX	_	Mood=Sub|Person=4	14	aux	_	Gloss=4.Sub
 14	c'ìntaː	c'ìntaː	VERB	_	_	8	parataxis	_	Gloss=pick_up_by_chance
@@ -1207,7 +1207,7 @@
 # text_en = Whenever a man is going to have sex with a woman, he will get that medicine, take a little and rub it on his penis.
 # text_ortho = koo dà wane lookàcii mùtun zaà ši cim̀ màccè, sai šì aukoo maaganiǹ nan, šì ɗèebi ɗan kàɗannà, šì šaahwaà gà bùuᵲaa.
 1	koːdàwane	koːdàwane	DET	_	Gender=Masc	2	det	_	Gloss=each.Masc
-2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	10	obl	_	Gloss=time.Masc
+2	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	10	obl:mod	_	Gloss=time.Masc
 3	mùtun	mùtun	NOUN	_	Gender=Masc	5	dislocated	_	Gloss=person.Masc
 4	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	aux	_	Gloss=Fut.3Masc
 5	cîm	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	acl:relcl	_	Gloss=eat/have_sex.Nmlz.Masc
@@ -1272,7 +1272,7 @@
 12	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	9	acl:relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	sai	sai	ADP	_	_	15	case	_	Gloss=only
-15	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	8	obl	_	Gloss=who.Fem
+15	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	8	obl:mod	_	Gloss=who.Fem
 16	kakà	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	17	aux	_	Gloss=2Masc.Prog.Rel|Relative=Yes
 17	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	15	acl:relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -1336,7 +1336,7 @@
 14	kaːmà	kaːmàː	VERB	_	_	3	advcl	_	Gloss=catch
 15	jìkintà	jìkiː	NOUN	_	Definite=Cons|Gender=Fem	14	obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=body.Masc.Cons-3FemGen|MSeg=jìkin-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-17	lokàcin	lokàciː	NOUN	_	Definite=Cons|Gender=Masc	34	obl	_	Gloss=time.Masc
+17	lokàcin	lokàciː	NOUN	_	Definite=Cons|Gender=Masc	34	obl:mod	_	Gloss=time.Masc
 18	dà	dà	SCONJ	_	_	20	mark	_	Gloss=that
 19	kag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	aux	_	Gloss=2Masc.Perf.Rel|Relative=Yes
 20	gàji	gàji	VERB	_	_	17	acl:relcl	_	Gloss=get_tired
@@ -1376,7 +1376,7 @@
 8	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	6	obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	sai	sai	ADP	_	_	11	case	_	Gloss=except
-11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	obl	_	Gloss=who.Fem
+11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	obl:mod	_	Gloss=who.Fem
 12	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	aux	_	Gloss=4.Prog.Rel|Relative=Yes
 13	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	11	acl:relcl	_	Gloss=like/love/want.Nmlz.Masc
 14	ƙwar̃ai	ƙwar̃ai	ADV	_	_	13	advmod	_	Gloss=completely|SpaceAfter=No
@@ -1630,7 +1630,7 @@
 12	gàr̃ai	gàr̃eː	ADP	_	Gender=Masc|Person=3	10	obl:arg	_	Gloss=at/to.3Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 14	du'	dukà	DET	_	PronType=Tot	15	det	_	Gloss=all
-15	indà	indà	PRON	_	PronType=Rel	20	obl	_	Gloss=where
+15	indà	indà	PRON	_	PronType=Rel	20	obl:mod	_	Gloss=where
 16	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 17	tàhi	tàhi	VERB	_	_	15	acl:relcl	_	Gloss=go|SpaceAfter=No
 18	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -1672,7 +1672,7 @@
 15	sakìːnai	sakìː	VERB	_	ExtPos=NOUN|Gender=Masc	14	obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=let_go.Nmlz.Masc.Cons-3MascGen|MSeg=sakìːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	koːmiː	koːmiː	DET	_	_	18	det	_	Gloss=anything
-18	wùyad	wùyaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl	_	Gloss=pain.Fem
+18	wùyad	wùyaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl:mod	_	Gloss=pain.Fem
 19	dà	dà	SCONJ	_	_	21	mark	_	Gloss=that
 20	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	21	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 21	shaː	shaː	VERB	_	_	18	acl:relcl	_	Gloss=drink/suffer|SpaceAfter=No
@@ -1717,7 +1717,7 @@
 # text_en = Because of the way those behaviours, if you give a woman a medicine made with their body parts and it catches her body, if she unites with someone, nobody can separate them, except for God or death.
 # text_ortho = kàma’ ’iᵲìn wàddà su kà waǹnan tàbii’àa, ’im ’am maà màccè maagànii, dà ’abuubuwàn jìkinsù, hay yak kaamà jìkintà, ’in tas sàᵲkahwà dà mùtun, baà wandà ya’ ’iyà ᵲabàa su, sai ’allàa, sai kaù mutuwàa.
 1	kàma’	kàmat	ADP	_	_	2	case	_	Gloss=like
-2	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	obl	_	Gloss=type.Masc.Cons
+2	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	obl:mod	_	Gloss=type.Masc.Cons
 3	wàddà	wàddà	PRON	_	_	2	nmod	_	Gloss=how
 4	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	6	aux	_	Gloss=3Plur.Prog.Rel|Relative=Yes
 5	wânnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	6	det	_	Gloss=ProxH.Masc
@@ -1752,11 +1752,11 @@
 34	su	su	PRON	_	Person=3	33	obj	_	Gloss=3.Pl|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 36	sai	sai	ADP	_	_	37	case	_	Gloss=except
-37	allàː	allàː	PROPN	_	_	32	obl	_	Gloss=God|SpaceAfter=No
+37	allàː	allàː	PROPN	_	_	32	obl:mod	_	Gloss=God|SpaceAfter=No
 38	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
 39	sai	sai	ADP	_	_	41	case	_	Gloss=except
 40	kâu	kàu	PART	_	PartType=Top	41	discourse	_	Gloss=whereas
-41	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	32	obl	_	Gloss=death.Fem|SpaceAfter=No
+41	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	32	obl:mod	_	Gloss=death.Fem|SpaceAfter=No
 42	.	.	PUNCT	_	_	29	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_068-068
@@ -1808,7 +1808,7 @@
 3	kwaːɓèː	kwaːɓèː	VERB	_	_	18	advcl	_	Gloss=mix|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	dul	dukà	DET	_	PronType=Tot	6	det	_	Gloss=all
-6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	18	obl	_	Gloss=time.Masc
+6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	18	obl:mod	_	Gloss=time.Masc
 7	dà	dà	SCONJ	_	_	9	mark	_	Gloss=that
 8	mùtun	mùtun	NOUN	_	Gender=Masc	9	dislocated	_	Gloss=person.Masc
 9	zâː	zâː	PART	_	PartType=Pred	6	acl:relcl	_	Gloss=Dir
@@ -2028,7 +2028,7 @@
 # text_en = Then, when he feels like defecating, when he goes to the toilet, let him take a bowl, a bowl of water.
 # text_ortho = sai lokàcin dà zaà ši kaašii, ’in yat tàhi wuᵲin kaašii, sai šì tàhi dà gwangwanii, gwangwanin ᵲuwaa.
 1	sai	sai	ADP	_	_	2	case	_	Gloss=until
-2	lokàcin	lokàciː	NOUN	_	Definite=Cons|Gender=Masc	15	obl	_	Gloss=time.Masc
+2	lokàcin	lokàciː	NOUN	_	Definite=Cons|Gender=Masc	15	obl:mod	_	Gloss=time.Masc
 3	dà	dà	SCONJ	_	_	5	mark	_	Gloss=that
 4	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	aux	_	Gloss=3Masc.Fut
 5	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	2	acl:relcl	_	Gloss=faeces.Masc|SpaceAfter=No
@@ -2420,7 +2420,7 @@
 15	sassàƙeː	sassàƙeː	VERB	_	_	11	parataxis	_	Gloss=carve
 16	shì	shi	PRON	_	Gender=Masc|Person=3	15	obj	_	Gloss=3Masc
 17	dà	dà	ADP	_	_	18	case	_	Gloss=with
-18	kyâu	kyâu	NOUN	_	Gender=Masc	15	obl	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
+18	kyâu	kyâu	NOUN	_	Gender=Masc	15	obl:mod	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	à	yà	AUX	_	Mood=Sub|Person=4	21	aux	_	Gloss=4.Sub
 21	kwarkwàreː	kwarkwàreː	VERB	_	_	15	parataxis	_	Gloss=scrape
@@ -2449,7 +2449,7 @@
 12	bar̃	barìː	VERB	_	_	7	parataxis	_	Gloss=leave
 13	shì	shi	PRON	_	Gender=Masc|Person=3	12	obj	_	Gloss=3Masc
 14	kàmak	kàmat	ADP	_	_	15	case	_	Gloss=like
-15	kwalbaː	kwalbaː	NOUN	_	Gender=Fem	12	obl	_	Gloss=bottle.Fem|SpaceAfter=No
+15	kwalbaː	kwalbaː	NOUN	_	Gender=Fem	12	obl:mod	_	Gloss=bottle.Fem|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_094-094
@@ -2535,7 +2535,7 @@
 # text_en = Whenever he is ready to go on a date with a woman, let him rub it on his penis, and have intercourse with that woman.
 # text_ortho = dul lookàcin dà yay yi niyyàa, zaà ši wani ša’ànii dà màccè, sai šì ɗaukoo, šì šaahwàa gà màzàakuutàa, šì taaᵲàa dà màcceǹ nan.
 1	dul	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
-2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	17	obl	_	Gloss=time.Masc
+2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	17	obl:mod	_	Gloss=time.Masc
 3	dà	dà	SCONJ	_	_	5	mark	_	Gloss=that
 4	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 5	yi	yi	VERB	_	_	2	acl:relcl	_	Gloss=do
@@ -2619,7 +2619,7 @@
 7	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxH.Masc
 8	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	6	appos	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-10	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	22	obl	_	Gloss=time.Masc
+10	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	22	obl:mod	_	Gloss=time.Masc
 11	dà	dà	SCONJ	_	_	13	mark	_	Gloss=that
 12	namijì	namijì	NOUN	_	Gender=Masc	13	nsubj	_	Gloss=man.Masc
 13	kà	nàː	AUX	_	Aspect=Prog	10	acl:relcl	_	Gloss=Prog.Rel|Relative=Yes
@@ -3253,14 +3253,14 @@
 25	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	19	parataxis	_	Gloss=cleverness/trick.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 27	sai	sai	SCONJ	_	_	28	case	_	Gloss=then
-28	waddà	waddà	PRON	_	PronType=Rel	25	obl	_	Gloss=what
+28	waddà	waddà	PRON	_	PronType=Rel	25	obl:mod	_	Gloss=what
 29	kam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	28	acl:relcl	_	Gloss=2MascSing.Perf.Rel|Relative=Yes
 30	mutà	mutà	PRON	_	Gender=Fem|Person=3	29	iobj	_	Gloss=3Fem.Dat|SpaceAfter=No
 31	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 32	sai	sai	ADP	_	_	35	case	_	Gloss=then
 33	kâu	kàu	PART	_	PartType=Top	35	discourse	_	Gloss=whereas
 34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	35	case	_	Gloss=Gen.Fem
-35	allàː	allàː	PROPN	_	_	25	obl	_	Gloss=God|SpaceAfter=No
+35	allàː	allàː	PROPN	_	_	25	obl:mod	_	Gloss=God|SpaceAfter=No
 36	.	.	PUNCT	_	_	19	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_121-122
@@ -3524,7 +3524,7 @@
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	bandà	bandà	ADP	_	_	9	case	_	Gloss=without
 8	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	case	_	Gloss=Gen.Fem
-9	hwar̃uttàː	hwar̃uttàː	NOUN	_	Number=Plur	4	obl	_	Gloss=fingernail.Plur
+9	hwar̃uttàː	hwar̃uttàː	NOUN	_	Number=Plur	4	obl:mod	_	Gloss=fingernail.Plur
 10	mayyaː	mayyaː	ADJ	_	Number=Plur	9	amod	_	Gloss=big.Plur|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
@@ -4130,7 +4130,7 @@
 3	ajèː	ajèː	VERB	_	_	11	advcl	_	Gloss=put_aside|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	6	case	_	Gloss=if
-6	sallàː	sallàː	NOUN	_	Gender=Fem	11	obl	_	Gloss=prayer.Fem
+6	sallàː	sallàː	NOUN	_	Gender=Fem	11	obl:mod	_	Gloss=prayer.Fem
 7	zâː	zâi	AUX	_	Tense=Fut	6	advcl:cleft	_	Gloss=Fut
 8	shi	shi	PRON	_	Gender=Masc|Person=3	7	nsubj	_	Gloss=3Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -4230,7 +4230,7 @@
 31	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	32	aux	_	Gloss=3Masc.Sub
 32	buːshèː	buːshèː	VERB	_	_	29	parataxis	_	Gloss=dry
 33	cikin	cikin	ADP	_	_	34	case	_	Gloss=in(side)
-34	kaskoː	kaskoː	NOUN	_	Gender=Masc	32	obl	_	Gloss=potsherd.Masc|SpaceAfter=No
+34	kaskoː	kaskoː	NOUN	_	Gender=Masc	32	obl:mod	_	Gloss=potsherd.Masc|SpaceAfter=No
 35	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_156-156
@@ -4477,7 +4477,7 @@
 9	zaːnàː	zaːnàː	VERB	_	_	5	acl:relcl	_	Gloss=tell
 10	tun	tun	ADP	_	_	12	case	_	Gloss=since/before
 11	na	na	PART	_	Case=Gen|PartType=Case	12	case	_	Gloss=Gen
-12	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	9	obl	_	Gloss=beginning.Masc.Def
+12	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	9	obl:mod	_	Gloss=beginning.Masc.Def
 13	har̃	har̃	CCONJ	_	_	15	cc	_	Gloss=until
 14	na	na	PART	_	Case=Gen|PartType=Case	15	case	_	Gloss=Gen
 15	ƙàr̃sheː	ƙàr̃sheː	NOUN	_	Gender=Masc	12	conj	_	Gloss=end.Masc|SpaceAfter=No
@@ -4596,7 +4596,7 @@
 # text_ortho = kuma koo kòoᵲattà ka kài, baà ta ’iyà ᵲàbuwaa dà kai.
 1	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
 2	koː	koː	SCONJ	_	_	3	case	_	Gloss=even_if
-3	kòːrattà	kòːraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	8	obl	_	CaseAf=Gen|GenderAf=Fem|Gloss=drive_away.Nmlz.Fem.Cons-3FemGen|MSeg=kòːrat-tà|PersonAf=3|Poss=Yes
+3	kòːrattà	kòːraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	8	obl:mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=drive_away.Nmlz.Fem.Cons-3FemGen|MSeg=kòːrat-tà|PersonAf=3|Poss=Yes
 4-5	kakài	_	_	_	_	_	_	_	SpaceAfter=No
 4	kakà	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	5	aux	_	Gloss=2Masc.Prog.Rel|Relative=Yes
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	3	advcl:cleft	_	Gloss=do.Nmlz.Masc
@@ -4743,7 +4743,7 @@
 # text = koːmiː kam mutà, bâːta iyà ràbuwaː dà kai.
 # text_en = Whatever you do to her, she cannot leave you.
 # text_ortho = koo mìi kam mutà, baà ta ’iyà ᵲàbuwaa dà kai.
-1	koːmiː	koːmiː	PRON	_	_	6	obl	_	Gloss=anything
+1	koːmiː	koːmiː	PRON	_	_	6	obl:mod	_	Gloss=anything
 2	kam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	1	acl:relcl	_	Gloss=2Masc.Perf.Bk.Rel|Relative=Yes
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	iobj	_	Gloss=3Fem.Dat|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -4957,7 +4957,7 @@
 # text_en = Apart from hen and bitch hearts, after you put tobacco powder in your mouth, you spend the night with it and you take it to put into the medicine, you give it to the woman to take.
 # text_ortho = ban dà zuccìyak kàajii, dà ta kàᵲyaa, ’in kas saà hac’ii cikim bàakinkà, yak kwaana kah hiddoo, ’ankà saà cikim maagàniii, ’ankà baà màccè tac ci,
 1	bandà	bandà	ADP	_	_	2	case	_	Gloss=without
-2	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons|Gender=Fem	22	obl	_	Gloss=heart.Fem
+2	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons|Gender=Fem	22	obl:mod	_	Gloss=heart.Fem
 3	kàːjiː	kàːjiː	NOUN	_	Number=Plur	2	nmod	_	Gloss=hen.Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	dà	dà	CCONJ	_	_	7	cc	_	Gloss=with
@@ -5200,7 +5200,7 @@
 10	sù	sù	PRON	_	Number=Plur|Person=3	9	obj	_	Gloss=3Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	dom	don	ADP	_	_	13	case	_	Gloss=for
-13	maːgànim	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	9	obl	_	Gloss=medicine/charm.Masc
+13	maːgànim	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	9	obl:mod	_	Gloss=medicine/charm.Masc
 14	màllakàː	màllakàː	NOUN	_	Gender=Fem	13	nmod	_	Gloss=grass.sp.Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 16	dum	dukà	DET	_	PronType=Tot	17	det	_	Gloss=all
@@ -5334,7 +5334,7 @@
 3	sàːmu	saːmùː	VERB	_	_	12	advcl	_	Gloss=get
 4	kaskàː	kaskàː	NOUN	_	Gender=Fem	3	obj	_	Gloss=tick.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-6	iyàːkaw	iyàːkaː	NOUN	_	Definite=Cons|Gender=Fem	12	obl	_	Gloss=totality.Fem
+6	iyàːkaw	iyàːkaː	NOUN	_	Definite=Cons|Gender=Fem	12	obl:mod	_	Gloss=totality.Fem
 7	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	nmod	_	Gloss=who.Fem
 8	akà	nàː	AUX	_	Aspect=Prog|Person=4	9	aux	_	Gloss=4.Prog.Rel|Relative=Yes
 9	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	7	acl:relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
@@ -5490,7 +5490,7 @@
 3	sàːmu	saːmùː	VERB	_	_	12	advcl	_	Gloss=get
 4	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Gender=Masc	3	obj	_	Gloss=grass_sp.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-6	koːwanè	koːwanè	PRON	_	PronType=Ind	12	obl	_	Gloss=whichever
+6	koːwanè	koːwanè	PRON	_	PronType=Ind	12	obl:mod	_	Gloss=whichever
 7	ankà	yaː	AUX	_	Aspect=Perf|Person=4	8	aux	_	Gloss=4.Perf.Rel|Relative=Yes
 8	saːmùː	saːmùː	VERB	_	_	6	acl:relcl	_	Gloss=get|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -6021,10 +6021,10 @@
 16	moːc'èː	moːc'èː	VERB	_	_	13	parataxis	_	Gloss=stir
 17	shi	shi	PRON	_	Gender=Masc|Person=3	16	obj	_	Gloss=3Masc
 18	dà	dà	ADP	_	_	19	case	_	Gloss=with
-19	kyâu	kyâu	NOUN	_	Gender=Masc	16	obl	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
+19	kyâu	kyâu	NOUN	_	Gender=Masc	16	obl:mod	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	cikin	cikin	ADP	_	_	22	case	_	Gloss=in(side)
-22	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons|Gender=Fem	16	obl	_	Gloss=tail.Fem
+22	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons|Gender=Fem	16	obl:mod	_	Gloss=tail.Fem
 23	luɗɗai	luɗɗai	NOUN	_	Gender=Masc	22	nmod	_	Gloss=gourd.Masc|SpaceAfter=No
 24	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
@@ -6039,7 +6039,7 @@
 2	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 3	mòːs'u	mòːs'u	VERB	_	_	9	advcl	_	Gloss=be_stirred
 4	dà	dà	ADP	_	_	5	case	_	Gloss=with
-5	kyâu	kyâu	NOUN	_	Gender=Masc	3	obl	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
+5	kyâu	kyâu	NOUN	_	Gender=Masc	3	obl:mod	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	9	advmod	_	Gloss=then
 8	à	yà	AUX	_	Mood=Sub|Person=4	9	aux	_	Gloss=4.Sub
@@ -6134,7 +6134,7 @@
 # text = loːkàcin dà yag ga màccen dà shikà sôː, in yak kiroː ta, taz zoː wuriːnai, sunkà shiryà bùtun kwaːnaː, in taː yàr̃da, sunkà tuːɓèː, zâːsu yîn kwântaː, sai shì ɗaukoː maːgànîn, shì ɗiːbàː kàɗannà, shì sâː gà hannuwàːnai, sai shì murjèː, maːgàniː gà hannuwàː.
 # text_en = When he sees a woman he loves, if he asks her to come to his place and they prepare to spend the night together, it she agrees, they undress, they will lie down, he wil take the medicine, he will take a little, he will put it on his hands, he will rub it on his hands.
 # text_ortho = lookàcin dà yag ga màccen dà ši kà soò, ’in yak kiᵲoo tà, taz zoo wuᵲiinai, sunkà šiᵲyà bùtun kwaanaa, ’in taa yàrda, sunkà tuuɓèe, zaà su yiǹ kwànce, sai šì ɗaukoo maagàniǹ, šì ɗèebi kàɗannà, šì saà gà hannuwàanai, sai šì muᵲjèe, maagànii gà hannuwàa.
-1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	37	obl	_	Gloss=time.Masc
+1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	37	obl:mod	_	Gloss=time.Masc
 2	dà	dà	SCONJ	_	_	4	mark	_	Gloss=that
 3	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	ga	ganiː	VERB	_	_	1	acl:relcl	_	Gloss=see
@@ -6359,7 +6359,7 @@
 1	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated	_	Gloss=3Fem
 2	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
 3	màcce	màcce	NOUN	_	Gender=Fem	1	appos	_	Gloss=woman.Fem
-4	koːmiː	koːmiː	PRON	_	PronType=Ind	10	obl	_	Gloss=anything
+4	koːmiː	koːmiː	PRON	_	PronType=Ind	10	obl:mod	_	Gloss=anything
 5	mùtun	mùtun	NOUN	_	Gender=Masc	6	nsubj	_	Gloss=person.Masc
 6	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	acl:relcl	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 7	mutà	mutà	PRON	_	Gender=Fem|Person=3	6	iobj	_	Gloss=3Fem.Dat|SpaceAfter=No
@@ -6477,7 +6477,7 @@
 # text = irìn yaddà ankài dà ɗam màɗaɗɗahiː, shiː maː hakànan akài dà shiː.
 # text_en = What you do with "maɗaɗɗafi" seeds., that's what you do with it too.
 # text_ortho = ’iᵲìn yaddà ’ankài dà ɗam màɗaɗɗahii, šii maa hakà nan ’a kài dà šii.
-1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	11	obl	_	Gloss=type.Masc.Cons
+1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	11	obl:mod	_	Gloss=type.Masc.Cons
 2	yaddà	yaddà	PRON	_	PronType=Rel	1	nmod	_	Gloss=how
 3-4	ankài	_	_	_	_	_	_	_	_
 3	ankà	yaː	AUX	_	Aspect=Perf|Person=4	4	aux	_	Gloss=4.Perf.Rel|Relative=Yes
@@ -6887,10 +6887,10 @@
 11	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	aux	_	Copula=Yes|Gloss=3Masc.Prog
 12	kusa	kusa	ADV	_	_	8	parataxis	_	Gloss=near
 13	gàreː	gàreː	ADP	_	_	14	case	_	Gloss=at
-14	shì	shi	PRON	_	Gender=Masc|Person=3	12	obl	_	Gloss=3Masc|SpaceAfter=No
+14	shì	shi	PRON	_	Gender=Masc|Person=3	12	obl:mod	_	Gloss=3Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	koːdàwane	koːdàwane	DET	_	Gender=Masc	17	det	_	Gloss=each.Masc
-17	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	12	obl	_	Gloss=time.Masc|SpaceAfter=No
+17	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	12	obl:mod	_	Gloss=time.Masc|SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_251-251
@@ -6906,7 +6906,7 @@
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	obj	_	Gloss=3Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	20	advmod	_	Gloss=then
-7	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	20	obl	_	Gloss=time.Masc
+7	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	20	obl:mod	_	Gloss=time.Masc
 8	dà	dà	SCONJ	_	_	11	mark	_	Gloss=that
 9	mùtun	mùtun	NOUN	_	Gender=Masc	11	nsubj	_	Gloss=person.Masc
 10	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -7024,7 +7024,7 @@
 14	ha'	hat	ADP	_	_	17	case	_	Gloss=until|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	du'	dukà	DET	_	PronType=Tot	17	det	_	Gloss=all
-17	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	24	obl	_	Gloss=type.Masc
+17	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	24	obl:mod	_	Gloss=type.Masc
 18	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	17	nmod	_	Gloss=thing.Masc
 19	dà	dà	SCONJ	_	_	20	mark	_	Gloss=that
 20	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	acl:relcl	_	Gloss=Fut.3Masc
@@ -7236,7 +7236,7 @@
 7	’yam	’yan	ADJ	_	Number=Plur	14	dislocated	_	Gloss=young.Plur
 8	maːtaː	maːtaː	NOUN	_	Number=Plur	7	compound	_	Gloss=woman.Plur
 9	dà	dà	ADP	_	_	10	case	_	Gloss=with
-10	yawàː	yawàː	NOUN	_	Gender=Masc	7	obl	_	Gloss=quantity.Masc|SpaceAfter=No
+10	yawàː	yawàː	NOUN	_	Gender=Masc	7	obl:mod	_	Gloss=quantity.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	14	advmod	_	Gloss=then
 13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	14	aux	_	Gloss=3Plur.Sub
@@ -7363,7 +7363,7 @@
 7	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	9	nsubj	_	Gloss=youth.Masc
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	Gloss=3Masc.Perf
 9	ìsa	ìsa	VERB	_	_	18	advcl	_	Gloss=arrive
-10	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	obl	_	Gloss=call.Nmlz.Masc
+10	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	obl:mod	_	Gloss=call.Nmlz.Masc
 11	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	10	nmod	_	Gloss=girl.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	14	aux	_	Gloss=3Fem.Sub
@@ -7436,7 +7436,7 @@
 17	zamnàː	zamnàː	VERB	_	_	10	parataxis	_	Gloss=stay
 18	can	can	ADV	_	Deixis=Remt|PronType=Dem	17	obl:arg	_	Gloss=Remt
 19	wurin	wurin	ADP	_	_	20	case	_	Gloss=at
-20	bìkiː	bìkiː	NOUN	_	_	18	obl	_	Gloss=festivity|SpaceAfter=No
+20	bìkiː	bìkiː	NOUN	_	_	18	obl:mod	_	Gloss=festivity|SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_11-11_split2
@@ -7495,7 +7495,7 @@
 # text_ortho = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe.
 1	in	in	SCONJ	_	_	3	dep	_	Gloss=if
 2	kâu	kàu	PART	_	PartType=Top	3	discourse	_	Gloss=whereas
-3	armeː	armeː	NOUN	_	Gender=Masc	8	obl	_	Gloss=wedding.Masc
+3	armeː	armeː	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=wedding.Masc
 4	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	5	aux	_	Gloss=Fut.4
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	3	advcl:cleft	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -7656,7 +7656,7 @@
 16	’yam	’yan	ADJ	_	Definite=Cons|Number=Plur	4	conj	_	Gloss=young.Plur
 17	maːtaː	maːtaː	NOUN	_	Number=Plur	16	compound	_	Gloss=woman.Plur
 18	na	na	PART	_	Case=Gen|PartType=Case	19	case	_	Gloss=Gen
-19	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	16	obl	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+19	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	16	obl:mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 20	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 21	dus	dukà	PRON	_	PronType=Tot	24	nsubj	_	Gloss=all
 22	sai	sai	ADV	_	_	24	advmod	_	Gloss=then
@@ -8245,7 +8245,7 @@
 25	bâː	baːbù	VERB	_	_	17	parataxis	_	Gloss=give
 26	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	25	iobj	_	Gloss=girl.Fem.Cons
 27	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	26	det	_	Gloss=ProxH
-28	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	26	nmod	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
+28	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	26	nmod:poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
 29	.	.	PUNCT	_	_	17	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33_split1
@@ -8599,7 +8599,7 @@
 19	jiyàː	jiyàː	VERB	_	_	13	advcl	_	Gloss=feel/hear|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	sabòːdà	sabòːdà	SCONJ	_	_	22	case	_	Gloss=because
-22	kumyàː	kumyàː	NOUN	_	Gender=Fem	19	obl	_	Gloss=shame.Fem|SpaceAfter=No
+22	kumyàː	kumyàː	NOUN	_	Gender=Fem	19	obl:mod	_	Gloss=shame.Fem|SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_44-44
@@ -8632,17 +8632,17 @@
 # text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
 1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse	_	Gloss=also
-3	dud	dukà	PRON	_	PronType=Tot	11	obl	_	Gloss=all
+3	dud	dukà	PRON	_	PronType=Tot	11	obl:mod	_	Gloss=all
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=with
 5	hakànan	hakànan	ADV	_	_	3	conj	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	8	case	_	Gloss=in
-8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	11	obl	_	Gloss=cuddling.Masc|SpaceAfter=No
+8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	11	obl:mod	_	Gloss=cuddling.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	aux	_	Gloss=3Masc.Prog
 11	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	0	root	_	Gloss=be_possible.Nmlz.Fem
 12	wani	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	13	det	_	Gloss=some.Fem
-13	raːnaː	raːnaː	NOUN	_	_	15	obl	_	Gloss=sun
+13	raːnaː	raːnaː	NOUN	_	_	15	obl:mod	_	Gloss=sun
 14	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	15	aux	_	Gloss=3Masc.Sub
 15	zan	zama	VERB	_	_	11	csubj	_	Gloss=become
 16	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	15	xcomp	_	Gloss=fornication.Masc|SpaceAfter=No
@@ -9038,7 +9038,7 @@
 5	:	:	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 6	“	“	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 7	tundà	tundà	SCONJ	_	_	8	case	_	Gloss=since
-8	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	obl	_	Gloss=3Masc
+8	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	obl:mod	_	Gloss=3Masc
 9	kikà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2	10	aux	_	Gloss=2Fem.Prog.Rel|Relative=Yes
 10	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	8	advcl:cleft	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -9284,7 +9284,7 @@
 7	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	aux	_	Gloss=3Masc.Sub
 8	diːbàː	diːbàː	VERB	_	_	0	root	_	Gloss=look_at
 9	dà	dà	ADP	_	_	10	case	_	Gloss=with
-10	kyâu	kyâu	NOUN	_	Gender=Masc	8	obl	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
+10	kyâu	kyâu	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	13	aux	_	Gloss=3Masc.Sub
 13	ga	ganiː	VERB	_	_	8	parataxis	_	Gloss=see
@@ -9368,7 +9368,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	advmod	_	Gloss=ProxH
 15	wurim	wurin	ADP	_	_	16	case	_	Gloss=at
-16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	14	obl	_	Gloss=girl.Fem|SpaceAfter=No
+16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	14	obl:mod	_	Gloss=girl.Fem|SpaceAfter=No
 17	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_66-66_split1
@@ -9677,7 +9677,7 @@
 # text_en = In young men's affairs, about them and young girls, there are Fulani wards where they have the same customs as the Hausa.
 # text_ortho = cikin harakàs sàmàaᵲii, dà suu dà ’yam maataa, ’àkwai zàncen hillànii masu yin tàbii’àa kàmat ta hàusàawaa.
 1	cikin	cikin	ADP	_	_	2	case	_	Gloss=in
-2	har̃akàs	har̃akàː	NOUN	_	Definite=Cons|Gender=Fem	11	obl	_	Gloss=business.Fem
+2	har̃akàs	har̃akàː	NOUN	_	Definite=Cons|Gender=Fem	11	obl:mod	_	Gloss=business.Fem
 3	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	nmod	_	Gloss=youth.Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	dà	dà	CCONJ	_	_	6	cc:preconj	_	Gloss=and
@@ -9721,7 +9721,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	kàmat	kàmar̃	ADP	_	_	19	case	_	Gloss=like
 18	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	19	case	_	Gloss=Gen.Fem
-19	hàusàːwaː	hàusàːwaː	PROPN	_	Number=Plur	14	obl	_	Gloss=Hausa.Plur|SpaceAfter=No
+19	hàusàːwaː	hàusàːwaː	PROPN	_	Number=Plur	14	obl:mod	_	Gloss=Hausa.Plur|SpaceAfter=No
 20	.	.	PUNCT	_	_	14	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_74-74
@@ -9806,7 +9806,7 @@
 4	bar̃ar̃oːjì	bar̃ar̃oːjì	PROPN	_	Number=Plur	3	flat:name	_	Gloss=Bororo.Plur
 5	suː	suː	PRON	_	Number=Plur|Person=3	23	dislocated	_	Gloss=3Plur
 6	kâu	kàu	PART	_	PartType=Top	5	discourse	_	Gloss=whereas
-7	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Prs	8	nmod	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
+7	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Prs	8	nmod:poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	23	dislocated	_	Gloss=custom.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	23	dislocated	_	Gloss=youth.Plur
@@ -9890,7 +9890,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	6	advmod	_	Gloss=Remt
 11	cikin	cikin	ADP	_	_	12	case	_	Gloss=in
-12	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	10	obl	_	Gloss=world.Fem|SpaceAfter=No
+12	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	10	obl:mod	_	Gloss=world.Fem|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_78-78_split2_split2
@@ -9943,7 +9943,7 @@
 11	ita	ita	PRON	_	Gender=Fem|Person=3	9	obl:arg	_	Gloss=3Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 13	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	14	det	_	Gloss=some.Masc
-14	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	22	obl	_	Gloss=time.Masc
+14	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	22	obl:mod	_	Gloss=time.Masc
 15	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	16	aux	_	Gloss=3Pl.ProgNeg
 16	daːwowaː	daːwoː	VERB	_	ExtPos=NOUN|Gender=Fem	22	parataxis	_	Gloss=return.Nmlz.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -10322,14 +10322,14 @@
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
-1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	13	obl	_	Gloss=who.Plur
+1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	13	obl:mod	_	Gloss=who.Plur
 2	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	acl:relcl	_	Gloss=3.Pl.Prog.Rel|Relative=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	in	in	SCONJ	_	_	6	mark	_	Gloss=if
 5	sum	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	aux	_	Gloss=3Plur.Perf
 6	bushèː	bushèː	VERB	_	_	13	advcl	_	Gloss=dry_up|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-8	koːmiː	koːmiː	PRON	_	_	13	obl	_	Gloss=whatever
+8	koːmiː	koːmiː	PRON	_	_	13	obl:mod	_	Gloss=whatever
 9	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons|Gender=Masc	8	acl:relcl	_	Gloss=strength.Masc
 10	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	9	nmod	_	Gloss=person.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -10353,10 +10353,10 @@
 # text_en = Even (by) pounding, whatever your strength, you won't succeed in pounding dum palm seeds in a day because of its toughness.
 # text_ortho = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
 1	koː	koː	ADV	_	_	2	advmod	_	Gloss=even
-2	dakàm	dakàː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc	10	obl	_	Gloss=pound.Nmlz.Masc.Def
+2	dakàm	dakàː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc	10	obl:mod	_	Gloss=pound.Nmlz.Masc.Def
 3	maː	maː	PART	_	PartType=Top	2	discourse	_	Gloss=even|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-5	koːmiː	koːmiː	PRON	_	_	10	obl	_	Gloss=anything
+5	koːmiː	koːmiː	PRON	_	_	10	obl:mod	_	Gloss=anything
 6	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons|Gender=Masc	5	acl:relcl	_	Gloss=strength.Masc
 7	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	6	nmod	_	Gloss=person.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -10366,11 +10366,11 @@
 12	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons|Number=Plur	11	obj	_	Gloss=daughter/seed.Plur
 13	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	12	nmod	_	Gloss=dum_palm_nut.Masc
 14	gà	gà	ADP	_	_	15	case	_	Gloss=at
-15	inìː	inìː	NOUN	_	Gender=Masc	10	obl	_	Gloss=day.Masc
+15	inìː	inìː	NOUN	_	Gender=Masc	10	obl:mod	_	Gloss=day.Masc
 16	gùdaː	gùdaː	NUM	_	_	15	nummod	_	Gloss=one|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	sabòːdà	sabòːdà	ADP	_	_	19	case	_	Gloss=because
-19	taurinsù	tauriː	NOUN	_	Definite=Cons|Gender=Masc	10	obl	_	CaseAf=Gen|Gloss=toughness.Masc.Cons-3PlurGen|MSeg=taurin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
+19	taurinsù	tauriː	NOUN	_	Definite=Cons|Gender=Masc	10	obl:mod	_	CaseAf=Gen|Gloss=toughness.Masc.Cons-3PlurGen|MSeg=taurin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_011-011_1
@@ -10519,7 +10519,7 @@
 3	àːjibìrma	àːjibìrma	NOUN	_	Gender=Masc	2	appos	_	Gloss=tree_sp.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	duy	dukà	DET	_	PronType=Tot	6	det	_	Gloss=all
-6	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	14	obl	_	Gloss=majority.Masc
+6	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	14	obl:mod	_	Gloss=majority.Masc
 7	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	6	nmod	_	Gloss=time.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 9	màːsu	mài	PART	_	Number=Plur|PartType=Der	14	dep	_	Gloss=owner_of.Plur
@@ -10605,7 +10605,7 @@
 1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 2	koː	kàu	PART	_	PartType=Top	1	discourse	_	Gloss=whereas
 3	bandà	bandà	ADP	_	_	4	case	_	Gloss=without
-4	suː	suː	PRON	_	Number=Plur|Person=3	6	obl	_	Gloss=3Plur|SpaceAfter=No
+4	suː	suː	PRON	_	Number=Plur|Person=3	6	obl:mod	_	Gloss=3Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 7	itàːceː	itàːceː	NOUN	_	Number=Plur	6	nsubj	_	Gloss=tree.Plur
@@ -10744,7 +10744,7 @@
 17	kuːwàː	kuːwàː	NOUN	_	Gender=Fem	16	xcomp	_	Gloss=yell.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 19	du’	dukà	DET	_	PronType=Tot	20	det	_	Gloss=all
-20	iyàːka'	iyàːkaː	NOUN	_	Definite=Cons|Gender=Fem	33	obl	_	Gloss=totality.Fem
+20	iyàːka'	iyàːkaː	NOUN	_	Definite=Cons|Gender=Fem	33	obl:mod	_	Gloss=totality.Fem
 21	indà	indà	ADV	_	_	20	advmod	_	Gloss=where
 22	iskàː	iskàː	NOUN	_	Gender=Fem	24	nsubj	_	Gloss=air.Fem
 23	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -10835,7 +10835,7 @@
 14	dà	dà	ADP	_	_	15	case	_	Gloss=with
 15	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	13	obl:arg	_	Gloss=iron.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-17	ƙarhèm	ƙarhèː	NOUN	_	Definite=Def|Gender=Masc	19	obl	_	Gloss=iron.Masc.Def
+17	ƙarhèm	ƙarhèː	NOUN	_	Definite=Def|Gender=Masc	19	obl:mod	_	Gloss=iron.Masc.Def
 18	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	19	aux	_	Gloss=3Masc.ProgNeg
 19	kaːmàː	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
 20	shi	shi	PRON	_	Gender=Masc|Person=3	19	obj	_	Gloss=3Masc|SpaceAfter=No
@@ -10984,7 +10984,7 @@
 5	s'uːwàː	s'uːwàː	NOUN	_	Gender=Fem	4	xcomp	_	Gloss=rumbling.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	kàmam	kàmat	ADP	_	_	8	case	_	Gloss=like
-8	mabuːsaː	mabuːsaː	NOUN	_	Gender=Fem	4	obl	_	Gloss=flute.Fem|SpaceAfter=No
+8	mabuːsaː	mabuːsaː	NOUN	_	Gender=Fem	4	obl:mod	_	Gloss=flute.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	11	aux	_	Gloss=3Masc.Sub
 11	riƙà	riƙàː	VERB	_	_	4	parataxis	_	Gloss=seize/keep_on
@@ -11371,7 +11371,7 @@
 # sent_timecode = 41000, 42000
 # text_en = On a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a piece of "kujiggi" (knife sp.).
 # text_ortho = ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
-1	raːnal	raːna	NOUN	_	Definite=Cons|Gender=Fem	5	obl	_	Gloss=day.Fem.Cons
+1	raːnal	raːna	NOUN	_	Definite=Cons|Gender=Fem	5	obl:mod	_	Gloss=day.Fem.Cons
 2	lahàdi	lahàdi	NOUN	_	_	1	nmod	_	Gloss=Sunday|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	5	aux	_	Gloss=3Masc.Sub
@@ -11513,7 +11513,7 @@
 33	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	31	advmod	_	Gloss=ProxH
 34	tàːre	tàːre	ADV	_	_	36	advmod	_	Gloss=together
 35	dà	dà	ADP	_	_	36	case	_	Gloss=with
-36	saːyèn	saːyèː	NOUN	_	Definite=Cons|Gender=Masc	31	obl	_	Gloss=root.Masc|SpaceAfter=No
+36	saːyèn	saːyèː	NOUN	_	Definite=Cons|Gender=Masc	31	obl:mod	_	Gloss=root.Masc|SpaceAfter=No
 37	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 38	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	39	aux	_	Gloss=3Masc.Sub
 39	sâː	sâː	VERB	_	_	31	parataxis	_	Gloss=put
@@ -11605,7 +11605,7 @@
 12	ruhèː	ruhèː	VERB	_	_	8	acl:relcl	_	Gloss=close
 13	tàːre	tàːre	ADV	_	_	15	advmod	_	Gloss=together
 14	dà	dà	ADP	_	_	15	case	_	Gloss=with
-15	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	7	obl	_	Gloss=iron.Masc|SpaceAfter=No
+15	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	7	obl:mod	_	Gloss=iron.Masc|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_051-051
@@ -11632,7 +11632,7 @@
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	tàːre	tàːre	ADV	_	_	18	advmod	_	Gloss=together
 17	dà	dà	ADP	_	_	18	case	_	Gloss=with
-18	saːyèː	saːyèː	NOUN	_	Gender=Masc	14	obl	_	Gloss=root.Masc|SpaceAfter=No
+18	saːyèː	saːyèː	NOUN	_	Gender=Masc	14	obl:mod	_	Gloss=root.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 20	dà	dà	SCONJ	_	_	22	mark	_	Gloss=when
 21	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	aux	_	Gloss=3Masc.Perf
@@ -12246,7 +12246,7 @@
 43	ɗiːbàː	ɗiːbàː	VERB	_	_	40	acl:relcl	_	Gloss=take
 44	shi	shi	PRON	_	Gender=Masc|Person=3	43	obj	_	Gloss=3Masc
 45	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT
-46	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	24	obl	_	Gloss=sun/day.Fem.Cons
+46	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	24	obl:mod	_	Gloss=sun/day.Fem.Cons
 47	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	46	det	_	Gloss=ProxH
 48	akà	nàː	AUX	_	Aspect=Prog|Person=4	49	aux	_	Gloss=4.Prog.Rel|Relative=Yes
 49	ɗumkèː	ɗumkèː	VERB	_	_	46	advcl:cleft	_	Gloss=sew_up
@@ -12335,7 +12335,7 @@
 32	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	aux	_	Gloss=3Masc.Perf
 33	taːràː	taːràː	VERB	_	_	28	conj	_	Gloss=gather
 34	su	su	PRON	_	Person=3	33	obj	_	Gloss=3.Pl
-35	wuriː	wuriː	NOUN	_	Gender=Masc	33	obl	_	Gloss=place.Masc
+35	wuriː	wuriː	NOUN	_	Gender=Masc	33	obl:mod	_	Gloss=place.Masc
 36	gùdaː	gùdaː	NUM	_	_	35	nummod	_	Gloss=one|SpaceAfter=No
 37	.	.	PUNCT	_	_	24	punct	_	Gloss=.
 
@@ -12568,7 +12568,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	13	advmod	_	Gloss=then
 6	dà	dà	ADP	_	_	7	case	_	Gloss=at
-7	ral	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	13	obl	_	Gloss=day.Fem
+7	ral	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	13	obl:mod	_	Gloss=day.Fem
 8	lahàdi	lahàdi	NOUN	_	Gender=Fem	7	nmod	_	Gloss=Sunday.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	13	advmod	_	Gloss=then
@@ -12596,7 +12596,7 @@
 3	hakànan	hakànan	ADV	_	_	14	advmod	_	Gloss=thus|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	dà	dà	ADP	_	_	6	case	_	Gloss=at
-6	raːnan	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl	_	Gloss=day.Fem
+6	raːnan	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl:mod	_	Gloss=day.Fem
 7	dà	dà	SCONJ	_	_	9	mark	_	Gloss=when
 8	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	9	aux	_	Gloss=Fut.3Masc
 9	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	6	acl:relcl	_	Gloss=go.Nmlz.Fem
@@ -12633,7 +12633,7 @@
 13	jìkiːnai	jìkiː	NOUN	_	Gender=Masc	9	obl:arg	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-3MascGen|MSeg=jìkiːn-ai|PersonAf=3|Poss=Yes
 14	gà	gà	ADP	_	_	16	case	_	Gloss=at
 15	wânnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	16	det	_	Gloss=ProxH.Masc
-16	darên	dareː	NOUN	_	Definite=Def|Gender=Masc	9	obl	_	Gloss=night.Masc.Def|SpaceAfter=No
+16	darên	dareː	NOUN	_	Definite=Def|Gender=Masc	9	obl:mod	_	Gloss=night.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	aux	_	Gloss=3Masc.Sub
 19	ajèː	ajèː	VERB	_	_	9	parataxis	_	Gloss=put_aside|SpaceAfter=No
@@ -12786,7 +12786,7 @@
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	advmod	_	Gloss=Neg|SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 9	dà	dà	ADP	_	_	10	case	_	Gloss=with
-10	raːnan	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	35	obl	_	Gloss=day.Fem
+10	raːnan	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	35	obl:mod	_	Gloss=day.Fem
 11	dà	dà	SCONJ	_	_	13	mark	_	Gloss=that
 12	zâːka	zâi	AUX	_	Gender=Masc|Person=2|Tense=Fut	13	aux	_	Gloss=Fut.2Masc
 13	ɗiːbàm	ɗìːbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	10	acl:relcl	_	Gloss=take.Nmlz.Fem
@@ -12802,7 +12802,7 @@
 23	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	35	advcl	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|Poss=Yes|SpaceAfter=No
 24	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 25	du’	dukà	DET	_	PronType=Tot	26	det	_	Gloss=all
-26	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	35	obl	_	Gloss=type.Masc
+26	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	35	obl:mod	_	Gloss=type.Masc
 27	juːyì	juːyì	NOUN	_	Gender=Masc	26	nmod	_	Gloss=change.Masc
 28	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	30	obj	_	Gloss=who.Masc
 29	ankà	yaː	AUX	_	Aspect=Perf|Person=4	30	aux	_	Gloss=4.Perf.Rel|Relative=Yes
@@ -12837,7 +12837,7 @@
 13	yi	yi	VERB	_	_	37	advcl	_	Gloss=do|SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 15	tundà	tundà	SCONJ	_	_	16	case	_	Gloss=since
-16	àssùbâː	àssùbâː	NOUN	_	Gender=Fem	37	obl	_	Gloss=early_morning.Fem|SpaceAfter=No
+16	àssùbâː	àssùbâː	NOUN	_	Gender=Fem	37	obl:mod	_	Gloss=early_morning.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 18	tum	tun	SCONJ	_	_	21	mark	_	Gloss=since/before
 19	mutàːneː	mutàːneː	NOUN	_	Number=Plur	21	nsubj	_	Gloss=people.Plur
@@ -12914,7 +12914,7 @@
 8	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated	_	Gloss=3Fem
 9	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	8	appos	_	Gloss=mucilaginous_plant_sp.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	yàːɗoː	yàːɗoː	NOUN	_	Gender=Masc	3	obl	_	Gloss=creeping.Masc
+11	yàːɗoː	yàːɗoː	NOUN	_	Gender=Masc	3	obl:mod	_	Gloss=creeping.Masc
 12-13	takài	_	_	_	_	_	_	_	SpaceAfter=No
 12	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	aux	_	Gloss=3Fem.Prog.Rel|Relative=Yes
 13	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	11	advcl:cleft	_	Gloss=do.Nmlz.Masc
@@ -13063,7 +13063,7 @@
 7	yi	yi	VERB	_	_	3	conj	_	Gloss=do
 8	tabshiː	tabshiː	NOUN	_	Gender=Masc	7	xcomp	_	Gloss=softness.Masc
 9	kàmas	kàmat	ADP	_	_	10	case	_	Gloss=like
-10	sòːsoː	sòːsoː	NOUN	_	Gender=Masc	7	obl	_	Gloss=loofah.Masc|SpaceAfter=No
+10	sòːsoː	sòːsoː	NOUN	_	Gender=Masc	7	obl:mod	_	Gloss=loofah.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	14	advmod	_	Gloss=then
 13	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	14	aux	_	Gloss=2Masc.Sub
@@ -13294,7 +13294,7 @@
 18	bisà	bisà	ADP	_	_	19	case	_	Gloss=on_top_of
 19	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	16	obl:arg	_	Gloss=skin.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-21	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	23	obl	_	Gloss=who.Fem
+21	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	23	obl:mod	_	Gloss=who.Fem
 22	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	23	aux	_	Gloss=Fut.4
 23	ɗumkèː	ɗumkèː	VERB	_	_	19	acl:relcl	_	Gloss=sew_up
 24	shi	shi	PRON	_	Gender=Masc|Person=3	23	obj	_	Gloss=3Masc|SpaceAfter=No
@@ -13316,7 +13316,7 @@
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	advmod	_	Gloss=Neg|SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 8	tun	tun	ADP	_	_	9	case	_	Gloss=since/before
-9	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	11	obl	_	Gloss=beginning.Masc.Def
+9	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	11	obl:mod	_	Gloss=beginning.Masc.Def
 10	ankà	yaː	AUX	_	Aspect=Perf|Person=4	11	aux	_	Gloss=4.Perf.Rel|Relative=Yes
 11	rìgyaː	rìgyaː	VERB	_	_	31	advcl	_	Gloss=have_already
 12	ankà	yaː	AUX	_	Aspect=Perf|Person=4	13	aux	_	Gloss=4.Perf.Rel|Relative=Yes
@@ -13618,7 +13618,7 @@
 # text = rân nan anàː nan zaman duːniyàː, kullun à kwaːnaː à taːshì, cikin màːsu sôm maːlàmin nan, sai màːtaw wani tah haihù,
 # text_en = Then, they were there, days went by, among those who liked the malam, somebody's wife gave birth.
 # text_ortho = ᵲan nan ’a nàa nan zaman duuniyàa, kullun ’à kwaana ’à taašì, cikim màasu som̀ maalàmiǹ nan, sai màataw wani tah haihù.
-1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	24	obl	_	Gloss=sun/day.Fem.Cons
+1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	24	obl:mod	_	Gloss=sun/day.Fem.Cons
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	aux	_	Gloss=4.Prog
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	24	advcl	_	Gloss=ProxH
@@ -13841,7 +13841,7 @@
 19	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	20	aux	_	Gloss=3Fem.Sub
 20	girma	girma	VERB	_	_	17	parataxis	_	Gloss=grow
 21	gà	gà	ADP	_	_	22	case	_	Gloss=at
-22	shi	shi	PRON	_	Gender=Masc|Person=3	20	obl	_	Gloss=3Masc|SpaceAfter=No
+22	shi	shi	PRON	_	Gender=Masc|Person=3	20	obl:mod	_	Gloss=3Masc|SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_010-010_split1
@@ -13932,7 +13932,7 @@
 1	kullun	kullun	ADV	_	_	3	advmod	_	Gloss=always
 2	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	aux	_	Copula=Yes|Gloss=4.Prog
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	0	root	_	Gloss=ProxH
-4	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	obl	_	Gloss=stay.Nmlz.Masc
+4	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	obl:mod	_	Gloss=stay.Nmlz.Masc
 5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	4	nmod	_	Gloss=world.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 7	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	10	nsubj	_	Gloss=girl.Fem
@@ -14000,7 +14000,7 @@
 10	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	11	aux	_	Copula=Yes|Gloss=3Fem.Prog
 11	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	0	root	_	Gloss=ProxH
 12	cikin	cikin	ADP	_	_	13	case	_	Gloss=in(side)
-13	gidaː	gidaː	NOUN	_	Gender=Masc	11	obl	_	Gloss=house.Masc|SpaceAfter=No
+13	gidaː	gidaː	NOUN	_	Gender=Masc	11	obl:mod	_	Gloss=house.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	16	aux	_	Gloss=3Fem.ProgNeg
 16	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	parataxis	_	Gloss=go.Nmlz.Masc
@@ -14310,7 +14310,7 @@
 20	tàhi	tàhi	VERB	_	_	10	parataxis	_	Gloss=go
 21	tàlla	tàlla	NOUN	_	Gender=Fem	20	obl	_	Gloss=hawking_wares.Fem
 22	cikin	cikin	ADP	_	_	23	case	_	Gloss=in(side)
-23	gàriː	gàriː	NOUN	_	Gender=Masc	20	obl	_	Gloss=town.Masc|SpaceAfter=No
+23	gàriː	gàriː	NOUN	_	Gender=Masc	20	obl:mod	_	Gloss=town.Masc|SpaceAfter=No
 24	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_024-024
@@ -14320,13 +14320,13 @@
 # text = a nàː nan kullun hakànan, rân nan maːlàmiː bâːshi nan, sai ɗan sarkin gàriː yay yoː mà doːkìːnai sir̃dì: dà màraiceː, zâː shi kìliːsàː.
 # text_en = This went on until one day the malam was not there, and the chief's son saddled his horse one evening to go for a ride.
 # text_ortho = ’a nàa nan kullun hakà nan, ᵲaǹ nan maalàmii baà ši nan, sai ɗan saᵲkin gàᵲii yay yoo mà dookìinai sirdìi, dà màᵲaicee, zaà ši kìliisàa.
-1	a	a	PRON	_	Person=4	18	obl	_	Gloss=4
+1	a	a	PRON	_	Person=4	18	obl:mod	_	Gloss=4
 2	nàː	nàː	AUX	_	Aspect=Prog	3	aux	_	Copula=Yes|Gloss=Prog
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	ccomp	_	Gloss=ProxH
 4	kullun	kullun	ADV	_	_	3	advmod	_	Gloss=always
 5	hakànan	hakànan	ADV	_	_	4	advmod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	18	obl	_	Gloss=sun/day.Fem.Cons
+7	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	18	obl:mod	_	Gloss=sun/day.Fem.Cons
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=ProxH
 9	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	11	dislocated	_	Gloss=malam.Masc
 10	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	11	aux	_	Copula=Yes|Gloss=3Masc.Prog.Neg
@@ -14342,7 +14342,7 @@
 20	doːkìːnai	doːkì:	NOUN	_	Gender=Masc	18	obl:arg	_	CaseAf=Gen|GenderAf=Masc|Gloss=horse.Masc.Cons-3MascGen|MSeg=doːkìːn-ai|PersonAf=3|Poss=Yes
 21	sir̃dì:	sir̃dì:	NOUN	_	Gender=Masc	18	obj	_	Gloss=saddle.Masc
 22	dà	dà	ADP	_	_	23	case	_	Gloss=with
-23	màraiceː	màraiceː	NOUN	_	Gender=Masc	18	obl	_	Gloss=late_evening.Masc|SpaceAfter=No
+23	màraiceː	màraiceː	NOUN	_	Gender=Masc	18	obl:mod	_	Gloss=late_evening.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	zâː	zâː	PART	_	PartType=Pred	18	parataxis	_	Gloss=Dir
 26	shi	shi	PRON	_	Gender=Masc|Person=3	25	nsubj	_	Gloss=3Masc
@@ -14573,7 +14573,7 @@
 18	ta	ta	PRON	_	Gender=Fem|Person=3	17	obj	_	Gloss=3Fem
 19	can	can	ADV	_	Deixis=Remt|PronType=Dem	17	advmod	_	Gloss=Remt
 20	cikin	cikin	ADP	_	_	21	case	_	Gloss=in(side)
-21	gàriː	gàriː	NOUN	_	Gender=Masc	19	obl	_	Gloss=town.Masc|SpaceAfter=No
+21	gàriː	gàriː	NOUN	_	Gender=Masc	19	obl:mod	_	Gloss=town.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_034-034
@@ -14592,7 +14592,7 @@
 7	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	8	aux	_	Gloss=Fut.3Masc
 8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	acl:relcl	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-10	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl	_	Gloss=sun/day.Fem.Cons
+10	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	14	obl:mod	_	Gloss=sun/day.Fem.Cons
 11	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	10	det	_	Gloss=ProxH
 12	sai	sai	ADV	_	_	14	advmod	_	Gloss=then
 13	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -15024,7 +15024,7 @@
 3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	advcl	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	can	can	ADV	_	Deixis=Remt|PronType=Dem	3	obl:arg	_	Gloss=Remt
-6	gidansù	gidaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl	_	CaseAf=Gen|Gloss=house.Masc.Cons-3PlurGen|MSeg=gidan-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
+6	gidansù	gidaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl:mod	_	CaseAf=Gen|Gloss=house.Masc.Cons-3PlurGen|MSeg=gidan-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 7	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	0	root	_	Gloss=2Fem.Sub
 8	zoː	zoː	VERB	_	_	7	ccomp	_	Gloss=come|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -15179,7 +15179,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	an	yaː	AUX	_	Aspect=Perf|Person=4	8	aux	_	Gloss=4.Perf
 8	kaːwoː	kai	VERB	_	_	2	ccomp	_	Gloss=reach/take_to.Dir
-9	dàudawaː	dàudawaː	NOUN	_	Gender=Fem	8	obl	_	Gloss=condiment_sp.Fem
+9	dàudawaː	dàudawaː	NOUN	_	Gender=Fem	8	obl:mod	_	Gloss=condiment_sp.Fem
 10	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_054-054
@@ -15249,7 +15249,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	can	can	ADV	_	Deixis=Remt|PronType=Dem	9	appos	_	Gloss=Remt
 12	wurim	wurin	ADP	_	_	13	case	_	Gloss=to
-13	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	11	obl	_	Gloss=wife.Fem
+13	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	11	obl:mod	_	Gloss=wife.Fem
 14	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	13	nmod	_	Gloss=malam.Masc|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -15360,7 +15360,7 @@
 2	kâu	kàu	PART	_	PartType=Top	1	discourse	_	Gloss=whereas
 3	nik	yaː	AUX	_	Aspect=Perf|Person=1	0	root	_	Gloss=1Sing.Perf.Rel|Relative=Yes
 4	kaːwoː	kai	VERB	_	_	3	ccomp	_	Gloss=reach/take_to.Dir
-5	mikì	mikì	PRON	_	Gender=Fem|Person=2	4	obl	_	Gloss=2Fem.Dat|SpaceAfter=No
+5	mikì	mikì	PRON	_	Gender=Fem|Person=2	4	obl:mod	_	Gloss=2Fem.Dat|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	kuma	kuma	CCONJ	_	_	9	cc	_	Gloss=also
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	Gloss=3Masc.Perf
@@ -15462,7 +15462,7 @@
 9	taz	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	10	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 10	zoː	zoː	VERB	_	_	6	parataxis	_	Gloss=come
 11	wurim	wurin	ADP	_	_	10	obl:arg	_	Gloss=to
-12	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	11	obl	_	Gloss=malam.Masc|SpaceAfter=No
+12	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	11	obl:mod	_	Gloss=malam.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	16	nsubj	_	Gloss=malam.Masc
 15	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -15655,7 +15655,7 @@
 6	dàudawaː	dàudawaː	NOUN	_	Gender=Fem	4	nmod	_	Gloss=condiment_sp.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	can	can	ADV	_	Deixis=Remt|PronType=Dem	4	advmod	_	Gloss=Remt
-9	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	obl	_	Gloss=house.Masc
+9	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	obl:mod	_	Gloss=house.Masc
 10	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	9	nmod	_	Gloss=malam.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	14	advmod	_	Gloss=then
@@ -15888,7 +15888,7 @@
 46	iːdì:	iːdì:	NOUN	_	Gender=Masc	44	obl:arg	_	Gloss=ceremony.Masc
 47	,	,	PUNCT	_	_	48	punct	_	Gloss=PUNCT
 48	can	can	ADV	_	Deixis=Remt|PronType=Dem	46	appos	_	Gloss=Remt
-49	hiːlin	hiːliː	NOUN	_	Definite=Cons|Gender=Masc	48	obl	_	Gloss=open_space.Masc
+49	hiːlin	hiːliː	NOUN	_	Definite=Cons|Gender=Masc	48	obl:mod	_	Gloss=open_space.Masc
 50	iːdì:	iːdì:	NOUN	_	Gender=Masc	49	nmod	_	Gloss=ceremony.Masc|SpaceAfter=No
 51	,	,	PUNCT	_	_	54	punct	_	Gloss=PUNCT
 52	tàːre	tàːre	ADV	_	_	54	advmod	_	Gloss=together
@@ -15917,7 +15917,7 @@
 7	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	aux	_	Gloss=3Masc.Sub
 8	zoː	zoː	VERB	_	_	4	parataxis	_	Gloss=come
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	obl:arg	_	Gloss=ProxH
-10	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	obl	_	Gloss=house.Masc
+10	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	obl:mod	_	Gloss=house.Masc
 11	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	10	nmod	_	Gloss=malam.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 13	sabòːdà	sabòːdà	SCONJ	_	_	15	mark	_	Gloss=because
@@ -15985,7 +15985,7 @@
 12	kai	kai	VERB	_	_	7	ccomp	_	Gloss=reach/take_to
 13	munà	munà	PRON	_	Number=Plur|Person=1	12	iobj	_	Gloss=1Plur.Dat
 14	râi	râi	NOUN	_	Gender=Masc	12	obj	_	Gloss=life.Masc
-15	ras	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	12	obl	_	Gloss=sun/day.Fem
+15	ras	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	12	obl:mod	_	Gloss=sun/day.Fem
 16	sallàː	sallàː	NOUN	_	Gender=Fem	15	obj	_	Gloss=prayer.Fem|SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -16022,7 +16022,7 @@
 24	mài	mài	PART	_	Number=Sing|PartType=Der	20	appos	_	Gloss=owner_of.Sing
 25	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	compound	_	Gloss=go.Nmlz.Masc
 26	wurin	wurin	ADP	_	_	25	obl:arg	_	Gloss=at
-27	iːdì:	iːdì:	NOUN	_	Gender=Masc	26	obl	_	Gloss=ceremony.Masc|SpaceAfter=No
+27	iːdì:	iːdì:	NOUN	_	Gender=Masc	26	obl:mod	_	Gloss=ceremony.Masc|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	suː	suː	PRON	_	Number=Plur|Person=3	24	appos	_	Gloss=3Plur
 30	maː	maː	PART	_	PartType=Top	29	discourse	_	Gloss=even
@@ -16054,7 +16054,7 @@
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	aux	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 3	tàhi	tàhi	VERB	_	_	14	advcl	_	Gloss=go
 4	wurin	wurin	ADP	_	_	3	dep	_	Gloss=at
-5	iːdì:	iːdì:	NOUN	_	Gender=Masc	4	obl	_	Gloss=ceremony.Masc|SpaceAfter=No
+5	iːdì:	iːdì:	NOUN	_	Gender=Masc	4	obl:mod	_	Gloss=ceremony.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	14	dislocated	_	Gloss=3Masc
 8	kâu	kàu	PART	_	PartType=Top	7	discourse	_	Gloss=whereas
@@ -16431,7 +16431,7 @@
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	taz	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 27	zubdàː	zubdàː	VERB	_	_	17	parataxis	_	Gloss=throw_away
-28	indà	indà	PRON	_	_	27	obl	_	Gloss=where
+28	indà	indà	PRON	_	_	27	obl:mod	_	Gloss=where
 29	bâː’a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	30	aux	_	Gloss=4.ProgNeg
 30	ganiː	ganiː	VERB	_	_	28	acl:relcl	_	Gloss=see|SpaceAfter=No
 31	.	.	PUNCT	_	_	13	punct	_	Gloss=.
@@ -16477,7 +16477,7 @@
 32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 33	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	34	aux	_	Gloss=3Masc.Sub
 34	ga	ganiː	VERB	_	_	30	parataxis	_	Gloss=see
-35	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	obl	_	Gloss=son.Masc
+35	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	obl:mod	_	Gloss=son.Masc
 36	sarkiː	sarkiː	NOUN	_	Gender=Masc	35	nmod	_	Gloss=chief.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
@@ -16584,7 +16584,7 @@
 3	doːkì:	doːkì:	NOUN	_	Gender=Masc	2	obj	_	Gloss=horse.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	can	can	ADV	_	Deixis=Remt|PronType=Dem	2	advmod	_	Gloss=Remt
-6	gidaːnaː	gidaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl	_	CaseAf=Gen|Gloss=house.Masc.Cons-1SingGen|MSeg=gidaːn-aː|NumberAf=Sing|PersonAf=1|Poss=Yes|SpaceAfter=No|wordform=gidaːna
+6	gidaːnaː	gidaː	NOUN	_	Definite=Cons|Gender=Masc	5	obl:mod	_	CaseAf=Gen|Gloss=house.Masc.Cons-1SingGen|MSeg=gidaːn-aː|NumberAf=Sing|PersonAf=1|Poss=Yes|SpaceAfter=No|wordform=gidaːna
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_102-102_split2
@@ -16663,7 +16663,7 @@
 # text_ortho = bàn ’aikàa mukà dookìi ba, ’ìn ji saᵲkii.
 1	bàn	yaː	AUX	_	Aspect=Perf|Person=1|Polarity=Neg	2	aux	_	Gloss=1Sing.PerfNeg
 2	aikàː	aikàː	VERB	_	_	0	root	_	Gloss=send
-3	mukà	mukà	PRON	_	Number=Plur|Person=1	2	obl	_	Gloss=1Plur.Dat
+3	mukà	mukà	PRON	_	Number=Plur|Person=1	2	obl:mod	_	Gloss=1Plur.Dat
 4	doːkì:	doːkì:	NOUN	_	Gender=Masc	3	obj	_	Gloss=horse.Masc
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	advmod	_	Gloss=Neg|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -16725,7 +16725,7 @@
 23	doːkì:	doːkì:	NOUN	_	Gender=Masc	22	obj	_	Gloss=horse.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	can	can	ADV	_	Deixis=Remt|PronType=Dem	22	advmod	_	Gloss=Remt
-26	gidaːnai	gidaː	NOUN	_	Gender=Masc	25	obl	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
+26	gidaːnai	gidaː	NOUN	_	Gender=Masc	25	obl:mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 27	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_108-108_split1
@@ -16866,7 +16866,7 @@
 5	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	3	obl:arg	_	Gloss=malam.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	can	can	ADV	_	Deixis=Remt|PronType=Dem	3	obl:arg	_	Gloss=Remt
-8	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	7	obl	_	Gloss=house.Masc
+8	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	7	obl:mod	_	Gloss=house.Masc
 9	sarkiː	sarkiː	NOUN	_	Gender=Masc	8	nmod	_	Gloss=chief.Masc|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -17389,7 +17389,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	can	can	ADV	_	Deixis=Remt|PronType=Dem	15	advmod	_	Gloss=Remt
 19	wurin	wurin	ADP	_	_	20	case	_	Gloss=at
-20	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	Number=Plur	18	obl	_	Gloss=courtiers.Plur|SpaceAfter=No
+20	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	Number=Plur	18	obl:mod	_	Gloss=courtiers.Plur|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_129-129
@@ -17483,7 +17483,7 @@
 12	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 13	cikin	cikin	ADP	_	_	15	case	_	Gloss=in(side)
 14	wânga	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
-15	raːniː	raːniː	NOUN	_	Gender=Masc	21	obl	_	Gloss=dry_season.Masc|SpaceAfter=No
+15	raːniː	raːniː	NOUN	_	Gender=Masc	21	obl:mod	_	Gloss=dry_season.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	na	na	PART	_	Case=Gen|PartType=Case	18	case	_	Gloss=Gen
 18	watàm	watàː	NOUN	_	Definite=Cons|Gender=Masc	15	nmod	_	Gloss=moon/month.Masc
@@ -17508,7 +17508,7 @@
 4	mà	mà	ADP	_	_	5	case	_	Gloss=Dat
 5	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	Number=Plur	3	obl:arg	_	Gloss=courtiers.Plur
 6	in	in	SCONJ	_	_	7	case	_	Gloss=if
-7	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	12	obl	_	Gloss=lie.Fem
+7	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	12	obl:mod	_	Gloss=lie.Fem
 8-9	kài	_	_	_	_	_	_	_	SpaceAfter=No
 8	shikà	nàː	AUX	_	Aspect=Prog|Person=3	9	aux	_	Gloss=3Sing.Prog.Rel|Relative=Yes
 9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	advcl:cleft	_	Gloss=do.Nmlz.Masc
@@ -17536,7 +17536,7 @@
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	aux	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 3	tàhi	tàhi	VERB	_	_	9	advcl	_	Gloss=go
 4	wurim	wurin	ADP	_	_	3	obl:arg	_	Gloss=at
-5	màːtas	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	4	obl	_	Gloss=wife.Fem
+5	màːtas	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	4	obl:mod	_	Gloss=wife.Fem
 6	sarkiː	sarkiː	NOUN	_	Gender=Masc	5	nmod	_	Gloss=chief.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	aux	_	Gloss=3Plur.Perf.Rel|Relative=Yes
@@ -17579,7 +17579,7 @@
 12	wuriː	wuriː	NOUN	_	Gender=Masc	10	obj	_	Gloss=place.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	in	in	SCONJ	_	_	15	case	_	Gloss=if
-15	hàukaː	hàukaː	NOUN	_	Gender=Fem	10	obl	_	Gloss=madness.Fem
+15	hàukaː	hàukaː	NOUN	_	Gender=Fem	10	obl:mod	_	Gloss=madness.Fem
 16	shikà	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	aux	_	Gloss=3Masc.Prog.Rel|Relative=Yes
 17	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	advcl:cleft	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -17593,7 +17593,7 @@
 # text_ortho = cikin waǹga ᵲaanii, ’ìnaa ’ad dà jìmɓiᵲii ?
 1	cikin	cikin	ADP	_	_	3	case	_	Gloss=in(side)
 2	wânga	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
-3	raːniː	raːniː	NOUN	_	Gender=Masc	5	obl	_	Gloss=dry_season.Masc|SpaceAfter=No
+3	raːniː	raːniː	NOUN	_	Gender=Masc	5	obl:mod	_	Gloss=dry_season.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	ìnaː	ìnaː	ADV	_	_	0	root	_	Gloss=where.Int
 6	ad	neː	AUX	_	_	8	cop	_	Copula=Yes|Gloss=Ident/Foc.Rel|Relative=Yes
@@ -17773,7 +17773,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	7	obl:arg	_	Gloss=Remt
 11	wurim	wurin	ADP	_	_	12	case	_	Gloss=at
-12	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	10	obl	_	Gloss=malam.Masc|SpaceAfter=No
+12	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	10	obl:mod	_	Gloss=malam.Masc|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_141-141
@@ -17791,12 +17791,12 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	8	aux	_	Copula=Yes|Gloss=3Plur.Prog
 8	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	0	root	_	Gloss=ProxH
-9	zamaː-zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	obl	_	Gloss=stay.Nmlz.Redup|SpaceAfter=No
+9	zamaː-zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	obl:mod	_	Gloss=stay.Nmlz.Redup|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	aux	_	Copula=Yes|Gloss=3Plur.Prog
 12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	parataxis	_	Gloss=ProxH
 13	cikin	cikin	ADP	_	_	14	case	_	Gloss=in(side)
-14	kasòː	kasòː	NOUN	_	Gender=Masc	12	obl	_	Gloss=prison.Masc|SpaceAfter=No
+14	kasòː	kasòː	NOUN	_	Gender=Masc	12	obl:mod	_	Gloss=prison.Masc|SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_142-142
@@ -17806,7 +17806,7 @@
 # text = rân nan sai màːtas sarkiː, tac cêː à sakoː sarkiː, tanàː dà màganàː dà shiː.
 # text_en = Then the chief's wife said they should release the chief, she had something to tell him.
 # text_ortho = ᵲaǹ nan sai màatas saᵲkii, tac ceè ’à sakoo saᵲkii, ta nàa dà màganàa dà šii.
-1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	8	obl	_	Gloss=sun/day.Fem.Cons
+1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	8	obl:mod	_	Gloss=sun/day.Fem.Cons
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
 3	sai	sai	ADV	_	_	8	advmod	_	Gloss=then
 4	màːtas	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	8	nsubj	_	Gloss=wife.Fem
@@ -17917,7 +17917,7 @@
 20	lâihiː	lâihiː	NOUN	_	Gender=Masc	15	parataxis	_	Gloss=fault.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 22	cikin	cikin	ADP	_	_	23	case	_	Gloss=in(side)
-23	màganàn	màganàː	NOUN	_	Definite=Cons|Gender=Fem	20	obl	_	Gloss=talk.Fem.Cons
+23	màganàn	màganàː	NOUN	_	Definite=Cons|Gender=Fem	20	obl:mod	_	Gloss=talk.Fem.Cons
 24	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	23	det	_	Gloss=ProxH|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	kissàmmù	kissàː	NOUN	_	Definite=Cons|Gender=Fem	20	parataxis	_	CaseAf=Gen|Gloss=deception.Fem.Cons-1PlurGen|MSeg=kissàm-mù|NumberAf=Plur|PersonAf=1|Poss=Yes|wordform=kissàm
@@ -18090,7 +18090,7 @@
 # text = raːnad dà allàː yab baː shì sa’àː, ita sàràkkuwân nan taːshì, sai tac cêː zâː ta ùnguwaː, tà ganoː dangìː, sù shiryàː, dà shiː dà màːtaːtai, ɗìyat taːtà, sù ràkkyeː tà.
 # text_en = The day God gave him an opportunity, that mother-in-law of his, she said she was going to the village to see her relatives, let him and his wife, her daughter, accompany her.
 # text_ortho = ᵲad dà ’allàa yab baa šì sa’àa, ’ita sàᵲàkkuwân nan taašì, sai tac ceè zaà ta ’ùnguwaa, tà ganoo dangìi, sù šiᵲyàa, dà šii dà màataatai, ɗìyat’ taatà, sù ᵲàkkyee tà.
-1	raːnad	raːnaː	NOUN	_	Definite=Cons	16	obl	_	Gloss=sun/day
+1	raːnad	raːnaː	NOUN	_	Definite=Cons	16	obl:mod	_	Gloss=sun/day
 2	dà	dà	SCONJ	_	_	5	mark	_	Gloss=that
 3	allàː	allàː	PROPN	_	_	5	nsubj	_	Gloss=God
 4	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -18101,7 +18101,7 @@
 9	ita	ita	PRON	_	Gender=Fem|Person=3	16	dislocated	_	Gloss=3Fem
 10	sàràkkuwân	sàràkkuwaː	NOUN	_	Definite=Cons|Gender=Fem	9	appos	_	Gloss=female_in_law.Fem.Cons
 11	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	10	det	_	Gloss=ProxH
-12	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	10	nmod	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
+12	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	10	nmod:poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	16	advmod	_	Gloss=then
 15	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -18196,7 +18196,7 @@
 30	bi	bi	VERB	_	_	17	ccomp	_	Gloss=follow
 31	dabràssù	dabràt	ADP	_	_	30	dep	_	CaseAf=Gen|Gloss=alongside.Cons-3PlurGen|MSeg=dabràs-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-33	indà	indà	PRON	_	_	30	obl	_	Gloss=where
+33	indà	indà	PRON	_	_	30	obl:mod	_	Gloss=where
 34	sàràkkuwaːtai	sàràkkuwaː	NOUN	_	Gender=Fem	36	nsubj	_	CaseAf=Gen|GenderAf=Masc|Gloss=in-law.Fem.Cons-3MascGen|MSeg=sàràkkuwaːt-ai|PersonAf=3|Poss=Yes
 35	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	36	aux	_	Gloss=3Fem.ProgNeg
 36	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN|Gender=Masc	33	acl:relcl	_	CaseAf=Gen|GenderAf=Masc|Gloss=see.Vnoun.Masc.Cons-3MascGen|MSeg=ganiːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -18303,7 +18303,7 @@
 6	daːjìː	daːjìː	NOUN	_	Gender=Masc	4	obl:arg	_	Gloss=bush.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 8	s'akad	s'akat	ADP	_	_	11	dep	_	Gloss=in_the_middle_of
-9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	obl	_	Gloss=bush.Masc|SpaceAfter=No
+9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=bush.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 12	hanyàː	hanyàː	NOUN	_	Gender=Fem	11	nsubj	_	Gloss=path.Fem|SpaceAfter=No
@@ -18443,7 +18443,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	ìn	yà	AUX	_	Mood=Sub|Person=1	9	aux	_	Gloss=1Sing.Sub
 9	tàmbàyi	tàmbayàː	VERB	_	_	2	parataxis	_	Gloss=ask
-10	dawàː	dawàː	NOUN	_	Gender=Masc	9	obl	_	Gloss=bush.Masc|SpaceAfter=No
+10	dawàː	dawàː	NOUN	_	Gender=Masc	9	obl:mod	_	Gloss=bush.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	ham	hat	SCONJ	_	_	14	mark	_	Gloss=until
 13	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	14	aux	_	Gloss=1Plur.Sub
@@ -18497,7 +18497,7 @@
 5	làɓe	laɓèː	VERB	_	ExtPos=ADV|VerbForm=Part	0	root	_	Gloss=hide.Part|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	8	case	_	Gloss=in(side)
-8	itàːceː	itàːceː	NOUN	_	Number=Plur	5	obl	_	Gloss=tree.Plur|SpaceAfter=No
+8	itàːceː	itàːceː	NOUN	_	Number=Plur	5	obl:mod	_	Gloss=tree.Plur|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_19
@@ -18945,7 +18945,7 @@
 # text = rân nan sai tay yi niyyàː, zâːta tàhiyàː wurim bìkiː, can gidan dangìntà.
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
-1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	5	obl	_	Gloss=sun/day.Fem.Cons
+1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	5	obl:mod	_	Gloss=sun/day.Fem.Cons
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
 3	sai	sai	ADV	_	_	5	advmod	_	Gloss=then
 4	tay	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	5	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -18958,7 +18958,7 @@
 11	bìkiː	bìkiː	NOUN	_	_	9	obl:arg	_	Gloss=festivity|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	11	advmod	_	Gloss=Remt
-14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	Gloss=house.Masc
+14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	obl:mod	_	Gloss=house.Masc
 15	dangìntà	dangìː	NOUN	_	Definite=Cons|Gender=Fem	14	nmod	_	CaseAf=Gen|GenderAf=Fem|Gloss=relatives.Masc.Cons-3FemGen|MSeg=dangìn-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -19575,7 +19575,7 @@
 # text_en = Everywhere, on her side and his side, there was nowhere air would enter, nor was there anywhere air would get out.
 # text_ortho = duk koo’ìnaa, dà wajentà dà wajeenai, baà ’indà ’iskàa kà šìgaa, kuma baà ’indà ’iskàa kà hìtaa.
 1	duk	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
-2	koː’ìnaː	koː’ìnaː	PRON	_	_	9	obl	_	Gloss=everywhere|SpaceAfter=No
+2	koː’ìnaː	koː’ìnaː	PRON	_	_	9	obl:mod	_	Gloss=everywhere|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	2	appos	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes
@@ -19609,7 +19609,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	dàn	dàgà	ADP	_	_	6	case	_	Gloss=from
 6	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	11	advmod	_	Gloss=ProxS
-7	gidaː	gidaː	NOUN	_	Gender=Masc	6	obl	_	Gloss=house.Masc|SpaceAfter=No
+7	gidaː	gidaː	NOUN	_	Gender=Masc	6	obl:mod	_	Gloss=house.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	11	advmod	_	Gloss=then
 10	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -19811,7 +19811,7 @@
 16	tad	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 17	dakàː	dakàː	VERB	_	_	11	parataxis	_	Gloss=pound
 18	dà	dà	ADP	_	_	19	case	_	Gloss=with
-19	gudùː	gudùː	NOUN	_	Gender=Masc	17	obl	_	Gloss=running.Masc|SpaceAfter=No
+19	gudùː	gudùː	NOUN	_	Gender=Masc	17	obl:mod	_	Gloss=running.Masc|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	22	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 22	tàhiyàttà	tàhiyàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	17	parataxis	_	CaseAf=Gen|GenderAf=Fem|Gloss=go.Nmlz.Fem.Cons-3FemGen|MSeg=tàhiyàt-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -19829,7 +19829,7 @@
 3	wàhalàː	wàhalàː	VERB	_	_	2	ccomp	_	Gloss=suffer|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	sabòːdà	sabòːdà	SCONJ	_	_	6	case	_	Gloss=because
-6	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	2	obl	_	Gloss=stench.Masc
+6	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	2	obl:mod	_	Gloss=stench.Masc
 7	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	6	nmod	_	Gloss=fart.Fem|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -19911,7 +19911,7 @@
 4	yi	yi	VERB	_	_	2	parataxis	_	Gloss=do
 5	zamaːnai	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	xcomp	_	CaseAf=Gen|GenderAf=Masc|Gloss=stay.Nmlz.Masc.Cons-3MascGen|MSeg=zamaːn-ai|PersonAf=3|Poss=Yes
 6	cikin	cikin	ADP	_	_	7	case	_	Gloss=in(side)
-7	gidaːnai	gidaː	NOUN	_	Gender=Masc	4	obl	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
+7	gidaːnai	gidaː	NOUN	_	Gender=Masc	4	obl:mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 9	kàmab	kàmat	SCONJ	_	_	11	mark	_	Gloss=as_if
 10	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	11	aux	_	Gloss=3Masc.PerfNeg
@@ -19975,7 +19975,7 @@
 1	dà	dà	SCONJ	_	_	3	mark	_	Gloss=when
 2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	3	aux	_	Copula=Yes|Gloss=3Plur.Prog
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	advcl	_	Gloss=ProxH
-4	gidaː	gidaː	NOUN	_	Gender=Masc	3	obl	_	Gloss=house.Masc|SpaceAfter=No
+4	gidaː	gidaː	NOUN	_	Gender=Masc	3	obl:mod	_	Gloss=house.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	10	advmod	_	Gloss=then
 7	mài	mài	PART	_	Number=Sing|PartType=Der	10	dep	_	Gloss=owner_of.Sing
@@ -20054,14 +20054,14 @@
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	compound	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	sai	sai	ADP	_	_	9	case	_	Gloss=except
-9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	1	obl	_	Gloss=excrement.Masc|SpaceAfter=No
+9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	1	obl:mod	_	Gloss=excrement.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	kuma	kuma	PART	_	PartType=Disc	13	discourse	_	Gloss=also
 12	sai	sai	ADP	_	_	13	case	_	Gloss=except
 13	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	9	conj	_	Gloss=farting.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	kàmaj	kàmat	ADP	_	_	16	case	_	Gloss=like
-16	jàːkiː	jàːkiː	NOUN	_	_	1	obl	_	Gloss=donkey|SpaceAfter=No
+16	jàːkiː	jàːkiː	NOUN	_	_	1	obl:mod	_	Gloss=donkey|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_44
@@ -20072,7 +20072,7 @@
 # text_en = From that day, she never talked about riders again.
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	2	case	_	Gloss=from
-2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	6	obl	_	Gloss=sun/day.Fem.Cons
+2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	6	obl:mod	_	Gloss=sun/day.Fem.Cons
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=ProxH|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	6	aux	_	Gloss=3Fem.PerfNeg
@@ -20096,7 +20096,7 @@
 3	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
 5	màːtaːtai	màːtaː	NOUN	_	Gender=Fem	4	obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=màːtaːt-ai|PersonAf=3|Poss=Yes
-6	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	4	obl	_	Gloss=health.Fem
+6	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	4	obl:mod	_	Gloss=health.Fem
 7	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	6	conj	_	Gloss=health.Fem|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 

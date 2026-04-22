@@ -195,7 +195,7 @@
 # text = rân nan sai tay yi niyyàː, zâːta tàhiyàː wurim bìkiː, can gidan dangìntà.
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
-1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	5	obl	_	Gloss=sun/day.Fem.Cons
+1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	5	obl:mod	_	Gloss=sun/day.Fem.Cons
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
 3	sai	sai	ADV	_	_	5	advmod	_	Gloss=then
 4	tay	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	5	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -208,7 +208,7 @@
 11	bìkiː	bìkiː	NOUN	_	_	9	obl:arg	_	Gloss=festivity|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	11	advmod	_	Gloss=Remt
-14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	Gloss=house.Masc
+14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	obl:mod	_	Gloss=house.Masc
 15	dangìntà	dangìː	NOUN	_	Definite=Cons|Gender=Fem	14	nmod	_	CaseAf=Gen|GenderAf=Fem|Gloss=relatives.Masc.Cons-3FemGen|MSeg=dangìn-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -825,7 +825,7 @@
 # text_en = Everywhere, on her side and his side, there was nowhere air would enter, nor was there anywhere air would get out.
 # text_ortho = duk koo’ìnaa, dà wajentà dà wajeenai, baà ’indà ’iskàa kà šìgaa, kuma baà ’indà ’iskàa kà hìtaa.
 1	duk	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
-2	koː’ìnaː	koː’ìnaː	PRON	_	_	9	obl	_	Gloss=everywhere|SpaceAfter=No
+2	koː’ìnaː	koː’ìnaː	PRON	_	_	9	obl:mod	_	Gloss=everywhere|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	2	appos	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes
@@ -859,7 +859,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	dàn	dàgà	ADP	_	_	6	case	_	Gloss=from
 6	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	11	advmod	_	Gloss=ProxS
-7	gidaː	gidaː	NOUN	_	Gender=Masc	6	obl	_	Gloss=house.Masc|SpaceAfter=No
+7	gidaː	gidaː	NOUN	_	Gender=Masc	6	obl:mod	_	Gloss=house.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	11	advmod	_	Gloss=then
 10	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -1061,7 +1061,7 @@
 16	tad	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 17	dakàː	dakàː	VERB	_	_	11	parataxis	_	Gloss=pound
 18	dà	dà	ADP	_	_	19	case	_	Gloss=with
-19	gudùː	gudùː	NOUN	_	Gender=Masc	17	obl	_	Gloss=running.Masc|SpaceAfter=No
+19	gudùː	gudùː	NOUN	_	Gender=Masc	17	obl:mod	_	Gloss=running.Masc|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	22	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 22	tàhiyàttà	tàhiyàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	17	parataxis	_	CaseAf=Gen|GenderAf=Fem|Gloss=go.Nmlz.Fem.Cons-3FemGen|MSeg=tàhiyàt-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -1079,7 +1079,7 @@
 3	wàhalàː	wàhalàː	VERB	_	_	2	ccomp	_	Gloss=suffer|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	sabòːdà	sabòːdà	SCONJ	_	_	6	case	_	Gloss=because
-6	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	2	obl	_	Gloss=stench.Masc
+6	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	2	obl:mod	_	Gloss=stench.Masc
 7	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	6	nmod	_	Gloss=fart.Fem|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -1161,7 +1161,7 @@
 4	yi	yi	VERB	_	_	2	parataxis	_	Gloss=do
 5	zamaːnai	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	xcomp	_	CaseAf=Gen|GenderAf=Masc|Gloss=stay.Nmlz.Masc.Cons-3MascGen|MSeg=zamaːn-ai|PersonAf=3|Poss=Yes
 6	cikin	cikin	ADP	_	_	7	case	_	Gloss=in(side)
-7	gidaːnai	gidaː	NOUN	_	Gender=Masc	4	obl	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
+7	gidaːnai	gidaː	NOUN	_	Gender=Masc	4	obl:mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=house.Masc.Cons-3MascGen|MSeg=gidaːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 9	kàmab	kàmat	SCONJ	_	_	11	mark	_	Gloss=as_if
 10	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	11	aux	_	Gloss=3Masc.PerfNeg
@@ -1225,7 +1225,7 @@
 1	dà	dà	SCONJ	_	_	3	mark	_	Gloss=when
 2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	3	aux	_	Copula=Yes|Gloss=3Plur.Prog
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	advcl	_	Gloss=ProxH
-4	gidaː	gidaː	NOUN	_	Gender=Masc	3	obl	_	Gloss=house.Masc|SpaceAfter=No
+4	gidaː	gidaː	NOUN	_	Gender=Masc	3	obl:mod	_	Gloss=house.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	10	advmod	_	Gloss=then
 7	mài	mài	PART	_	Number=Sing|PartType=Der	10	dep	_	Gloss=owner_of.Sing
@@ -1304,14 +1304,14 @@
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	compound	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	sai	sai	ADP	_	_	9	case	_	Gloss=except
-9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	1	obl	_	Gloss=excrement.Masc|SpaceAfter=No
+9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	1	obl:mod	_	Gloss=excrement.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	kuma	kuma	PART	_	PartType=Disc	13	discourse	_	Gloss=also
 12	sai	sai	ADP	_	_	13	case	_	Gloss=except
 13	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	9	conj	_	Gloss=farting.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	kàmaj	kàmat	ADP	_	_	16	case	_	Gloss=like
-16	jàːkiː	jàːkiː	NOUN	_	_	1	obl	_	Gloss=donkey|SpaceAfter=No
+16	jàːkiː	jàːkiː	NOUN	_	_	1	obl:mod	_	Gloss=donkey|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_44
@@ -1322,7 +1322,7 @@
 # text_en = From that day, she never talked about riders again.
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	2	case	_	Gloss=from
-2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	6	obl	_	Gloss=sun/day.Fem.Cons
+2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	6	obl:mod	_	Gloss=sun/day.Fem.Cons
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=ProxH|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	6	aux	_	Gloss=3Fem.PerfNeg
@@ -1346,7 +1346,7 @@
 3	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
 5	màːtaːtai	màːtaː	NOUN	_	Gender=Fem	4	obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=màːtaːt-ai|PersonAf=3|Poss=Yes
-6	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	4	obl	_	Gloss=health.Fem
+6	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	4	obl:mod	_	Gloss=health.Fem
 7	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	6	conj	_	Gloss=health.Fem|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 

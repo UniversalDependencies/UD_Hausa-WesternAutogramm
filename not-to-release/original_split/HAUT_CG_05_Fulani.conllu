@@ -105,7 +105,7 @@
 # text = raːnad dà allàː yab baː shì sa’àː, ita sàràkkuwân nan taːshì, sai tac cêː zâː ta ùnguwaː, tà ganoː dangìː, sù shiryàː, dà shiː dà màːtaːtai, ɗìyat taːtà, sù ràkkyeː tà.
 # text_en = The day God gave him an opportunity, that mother-in-law of his, she said she was going to the village to see her relatives, let him and his wife, her daughter, accompany her.
 # text_ortho = ᵲad dà ’allàa yab baa šì sa’àa, ’ita sàᵲàkkuwân nan taašì, sai tac ceè zaà ta ’ùnguwaa, tà ganoo dangìi, sù šiᵲyàa, dà šii dà màataatai, ɗìyat’ taatà, sù ᵲàkkyee tà.
-1	raːnad	raːnaː	NOUN	_	Definite=Cons	16	obl	_	Gloss=sun/day
+1	raːnad	raːnaː	NOUN	_	Definite=Cons	16	obl:mod	_	Gloss=sun/day
 2	dà	dà	SCONJ	_	_	5	mark	_	Gloss=that
 3	allàː	allàː	PROPN	_	_	5	nsubj	_	Gloss=God
 4	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -116,7 +116,7 @@
 9	ita	ita	PRON	_	Gender=Fem|Person=3	16	dislocated	_	Gloss=3Fem
 10	sàràkkuwân	sàràkkuwaː	NOUN	_	Definite=Cons|Gender=Fem	9	appos	_	Gloss=female_in_law.Fem.Cons
 11	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	10	det	_	Gloss=ProxH
-12	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	10	nmod	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
+12	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	10	nmod:poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	16	advmod	_	Gloss=then
 15	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -211,7 +211,7 @@
 30	bi	bi	VERB	_	_	17	ccomp	_	Gloss=follow
 31	dabràssù	dabràt	ADP	_	_	30	dep	_	CaseAf=Gen|Gloss=alongside.Cons-3PlurGen|MSeg=dabràs-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-33	indà	indà	PRON	_	_	30	obl	_	Gloss=where
+33	indà	indà	PRON	_	_	30	obl:mod	_	Gloss=where
 34	sàràkkuwaːtai	sàràkkuwaː	NOUN	_	Gender=Fem	36	nsubj	_	CaseAf=Gen|GenderAf=Masc|Gloss=in-law.Fem.Cons-3MascGen|MSeg=sàràkkuwaːt-ai|PersonAf=3|Poss=Yes
 35	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	36	aux	_	Gloss=3Fem.ProgNeg
 36	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN|Gender=Masc	33	acl:relcl	_	CaseAf=Gen|GenderAf=Masc|Gloss=see.Vnoun.Masc.Cons-3MascGen|MSeg=ganiːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -318,7 +318,7 @@
 6	daːjìː	daːjìː	NOUN	_	Gender=Masc	4	obl:arg	_	Gloss=bush.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 8	s'akad	s'akat	ADP	_	_	11	dep	_	Gloss=in_the_middle_of
-9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	obl	_	Gloss=bush.Masc|SpaceAfter=No
+9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=bush.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 12	hanyàː	hanyàː	NOUN	_	Gender=Fem	11	nsubj	_	Gloss=path.Fem|SpaceAfter=No
@@ -458,7 +458,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	ìn	yà	AUX	_	Mood=Sub|Person=1	9	aux	_	Gloss=1Sing.Sub
 9	tàmbàyi	tàmbayàː	VERB	_	_	2	parataxis	_	Gloss=ask
-10	dawàː	dawàː	NOUN	_	Gender=Masc	9	obl	_	Gloss=bush.Masc|SpaceAfter=No
+10	dawàː	dawàː	NOUN	_	Gender=Masc	9	obl:mod	_	Gloss=bush.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	ham	hat	SCONJ	_	_	14	mark	_	Gloss=until
 13	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	14	aux	_	Gloss=1Plur.Sub
@@ -512,7 +512,7 @@
 5	làɓe	laɓèː	VERB	_	ExtPos=ADV|VerbForm=Part	0	root	_	Gloss=hide.Part|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	8	case	_	Gloss=in(side)
-8	itàːceː	itàːceː	NOUN	_	Number=Plur	5	obl	_	Gloss=tree.Plur|SpaceAfter=No
+8	itàːceː	itàːceː	NOUN	_	Number=Plur	5	obl:mod	_	Gloss=tree.Plur|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_19

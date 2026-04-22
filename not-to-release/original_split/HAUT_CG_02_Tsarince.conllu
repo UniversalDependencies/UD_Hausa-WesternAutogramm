@@ -190,7 +190,7 @@
 7	’yam	’yan	ADJ	_	Number=Plur	14	dislocated	_	Gloss=young.Plur
 8	maːtaː	maːtaː	NOUN	_	Number=Plur	7	compound	_	Gloss=woman.Plur
 9	dà	dà	ADP	_	_	10	case	_	Gloss=with
-10	yawàː	yawàː	NOUN	_	Gender=Masc	7	obl	_	Gloss=quantity.Masc|SpaceAfter=No
+10	yawàː	yawàː	NOUN	_	Gender=Masc	7	obl:mod	_	Gloss=quantity.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	14	advmod	_	Gloss=then
 13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	14	aux	_	Gloss=3Plur.Sub
@@ -317,7 +317,7 @@
 7	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	9	nsubj	_	Gloss=youth.Masc
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	Gloss=3Masc.Perf
 9	ìsa	ìsa	VERB	_	_	18	advcl	_	Gloss=arrive
-10	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	obl	_	Gloss=call.Nmlz.Masc
+10	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	obl:mod	_	Gloss=call.Nmlz.Masc
 11	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	10	nmod	_	Gloss=girl.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	14	aux	_	Gloss=3Fem.Sub
@@ -390,7 +390,7 @@
 17	zamnàː	zamnàː	VERB	_	_	10	parataxis	_	Gloss=stay
 18	can	can	ADV	_	Deixis=Remt|PronType=Dem	17	obl:arg	_	Gloss=Remt
 19	wurin	wurin	ADP	_	_	20	case	_	Gloss=at
-20	bìkiː	bìkiː	NOUN	_	_	18	obl	_	Gloss=festivity|SpaceAfter=No
+20	bìkiː	bìkiː	NOUN	_	_	18	obl:mod	_	Gloss=festivity|SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_11-11_split2
@@ -449,7 +449,7 @@
 # text_ortho = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe.
 1	in	in	SCONJ	_	_	3	dep	_	Gloss=if
 2	kâu	kàu	PART	_	PartType=Top	3	discourse	_	Gloss=whereas
-3	armeː	armeː	NOUN	_	Gender=Masc	8	obl	_	Gloss=wedding.Masc
+3	armeː	armeː	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=wedding.Masc
 4	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	5	aux	_	Gloss=Fut.4
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	3	advcl:cleft	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -610,7 +610,7 @@
 16	’yam	’yan	ADJ	_	Definite=Cons|Number=Plur	4	conj	_	Gloss=young.Plur
 17	maːtaː	maːtaː	NOUN	_	Number=Plur	16	compound	_	Gloss=woman.Plur
 18	na	na	PART	_	Case=Gen|PartType=Case	19	case	_	Gloss=Gen
-19	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	16	obl	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+19	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem	16	obl:mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 20	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 21	dus	dukà	PRON	_	PronType=Tot	24	nsubj	_	Gloss=all
 22	sai	sai	ADV	_	_	24	advmod	_	Gloss=then
@@ -1199,7 +1199,7 @@
 25	bâː	baːbù	VERB	_	_	17	parataxis	_	Gloss=give
 26	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	25	iobj	_	Gloss=girl.Fem.Cons
 27	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	26	det	_	Gloss=ProxH
-28	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	26	nmod	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
+28	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	26	nmod:poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
 29	.	.	PUNCT	_	_	17	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33_split1
@@ -1553,7 +1553,7 @@
 19	jiyàː	jiyàː	VERB	_	_	13	advcl	_	Gloss=feel/hear|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	sabòːdà	sabòːdà	SCONJ	_	_	22	case	_	Gloss=because
-22	kumyàː	kumyàː	NOUN	_	Gender=Fem	19	obl	_	Gloss=shame.Fem|SpaceAfter=No
+22	kumyàː	kumyàː	NOUN	_	Gender=Fem	19	obl:mod	_	Gloss=shame.Fem|SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_44-44
@@ -1586,17 +1586,17 @@
 # text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
 1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse	_	Gloss=also
-3	dud	dukà	PRON	_	PronType=Tot	11	obl	_	Gloss=all
+3	dud	dukà	PRON	_	PronType=Tot	11	obl:mod	_	Gloss=all
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=with
 5	hakànan	hakànan	ADV	_	_	3	conj	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	8	case	_	Gloss=in
-8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	11	obl	_	Gloss=cuddling.Masc|SpaceAfter=No
+8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	11	obl:mod	_	Gloss=cuddling.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	aux	_	Gloss=3Masc.Prog
 11	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	0	root	_	Gloss=be_possible.Nmlz.Fem
 12	wani	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	13	det	_	Gloss=some.Fem
-13	raːnaː	raːnaː	NOUN	_	_	15	obl	_	Gloss=sun
+13	raːnaː	raːnaː	NOUN	_	_	15	obl:mod	_	Gloss=sun
 14	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	15	aux	_	Gloss=3Masc.Sub
 15	zan	zama	VERB	_	_	11	csubj	_	Gloss=become
 16	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	15	xcomp	_	Gloss=fornication.Masc|SpaceAfter=No
@@ -1992,7 +1992,7 @@
 5	:	:	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 6	“	“	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 7	tundà	tundà	SCONJ	_	_	8	case	_	Gloss=since
-8	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	obl	_	Gloss=3Masc
+8	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	obl:mod	_	Gloss=3Masc
 9	kikà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2	10	aux	_	Gloss=2Fem.Prog.Rel|Relative=Yes
 10	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	8	advcl:cleft	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -2238,7 +2238,7 @@
 7	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	aux	_	Gloss=3Masc.Sub
 8	diːbàː	diːbàː	VERB	_	_	0	root	_	Gloss=look_at
 9	dà	dà	ADP	_	_	10	case	_	Gloss=with
-10	kyâu	kyâu	NOUN	_	Gender=Masc	8	obl	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
+10	kyâu	kyâu	NOUN	_	Gender=Masc	8	obl:mod	_	Gloss=goodness/beauty.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	13	aux	_	Gloss=3Masc.Sub
 13	ga	ganiː	VERB	_	_	8	parataxis	_	Gloss=see
@@ -2322,7 +2322,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	advmod	_	Gloss=ProxH
 15	wurim	wurin	ADP	_	_	16	case	_	Gloss=at
-16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	14	obl	_	Gloss=girl.Fem|SpaceAfter=No
+16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	14	obl:mod	_	Gloss=girl.Fem|SpaceAfter=No
 17	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_66-66_split1
@@ -2631,7 +2631,7 @@
 # text_en = In young men's affairs, about them and young girls, there are Fulani wards where they have the same customs as the Hausa.
 # text_ortho = cikin harakàs sàmàaᵲii, dà suu dà ’yam maataa, ’àkwai zàncen hillànii masu yin tàbii’àa kàmat ta hàusàawaa.
 1	cikin	cikin	ADP	_	_	2	case	_	Gloss=in
-2	har̃akàs	har̃akàː	NOUN	_	Definite=Cons|Gender=Fem	11	obl	_	Gloss=business.Fem
+2	har̃akàs	har̃akàː	NOUN	_	Definite=Cons|Gender=Fem	11	obl:mod	_	Gloss=business.Fem
 3	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	nmod	_	Gloss=youth.Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	dà	dà	CCONJ	_	_	6	cc:preconj	_	Gloss=and
@@ -2675,7 +2675,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	kàmat	kàmar̃	ADP	_	_	19	case	_	Gloss=like
 18	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	19	case	_	Gloss=Gen.Fem
-19	hàusàːwaː	hàusàːwaː	PROPN	_	Number=Plur	14	obl	_	Gloss=Hausa.Plur|SpaceAfter=No
+19	hàusàːwaː	hàusàːwaː	PROPN	_	Number=Plur	14	obl:mod	_	Gloss=Hausa.Plur|SpaceAfter=No
 20	.	.	PUNCT	_	_	14	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_74-74
@@ -2760,7 +2760,7 @@
 4	bar̃ar̃oːjì	bar̃ar̃oːjì	PROPN	_	Number=Plur	3	flat:name	_	Gloss=Bororo.Plur
 5	suː	suː	PRON	_	Number=Plur|Person=3	23	dislocated	_	Gloss=3Plur
 6	kâu	kàu	PART	_	PartType=Top	5	discourse	_	Gloss=whereas
-7	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Prs	8	nmod	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
+7	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Prs	8	nmod:poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	23	dislocated	_	Gloss=custom.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	23	dislocated	_	Gloss=youth.Plur
@@ -2844,7 +2844,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	6	advmod	_	Gloss=Remt
 11	cikin	cikin	ADP	_	_	12	case	_	Gloss=in
-12	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	10	obl	_	Gloss=world.Fem|SpaceAfter=No
+12	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	10	obl:mod	_	Gloss=world.Fem|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_78-78_split2_split2
@@ -2897,7 +2897,7 @@
 11	ita	ita	PRON	_	Gender=Fem|Person=3	9	obl:arg	_	Gloss=3Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 13	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	14	det	_	Gloss=some.Masc
-14	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	22	obl	_	Gloss=time.Masc
+14	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	22	obl:mod	_	Gloss=time.Masc
 15	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	16	aux	_	Gloss=3Pl.ProgNeg
 16	daːwowaː	daːwoː	VERB	_	ExtPos=NOUN|Gender=Fem	22	parataxis	_	Gloss=return.Nmlz.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
