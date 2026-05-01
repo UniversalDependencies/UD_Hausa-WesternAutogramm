@@ -553,7 +553,7 @@
 26	san	saniː	VERB	_	_	21	parataxis	_	Gloss=know
 27	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem	26	obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3|Poss=Yes
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	26	advmod	_	Gloss=Neg
-29	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	ccomp	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
+29	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	discourse	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 30	.	.	PUNCT	_	_	14	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_22
