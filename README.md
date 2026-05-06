@@ -31,7 +31,7 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: fiction nonfiction spoken
+Genre: fiction nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
